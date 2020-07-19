@@ -2,7 +2,7 @@
   "name": "Iotics Admin",
   "version": "latest",
   "slug": "iotics_admin",
-  "image": "iotics/tvheadend",
+  "image": "iotics/iotics",
   "description": "Hassio addon. Image used is iotics official",
   "url": "https://hub.docker.com/u/iotics",
   "description": "Iotics Admin",
