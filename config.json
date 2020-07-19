@@ -7,7 +7,7 @@
   "url": "https://hub.docker.com/u/iotics",
   "description": "Iotics",
   "webui": "https://[HOST]:[PORT:4443]/",
-  "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+  "arch": ["amd64"],
   "startup": "before",
   "boot": "auto",
   "map": ["share:rw"],
