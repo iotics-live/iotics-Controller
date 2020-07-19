@@ -1,18 +1,15 @@
 {
-  "name": "Grafana",
+  "name": "iotics",
   "version": "latest",
-  "slug": "grafana",
-  "image": "grafana/grafana",
-  "description": "Grafana addon. Image used is grafana official",
-  "url": "https://hub.docker.com/r/grafana/grafana/",
+  "slug": "iotics",
+  "image": "iotics/iotics",
+  "description": "Hassio addon. Image used is iotics official",
+  "url": "https://hub.docker.com/u/iotics",
   "startup": "before",
   "boot": "auto",
   "ports": {
-    "3000/tcp": 3000
+    "4443/tcp": 4443
   },
-  "environment": {
-    "GF_PATHS_DATA": "/data",
-    "GF_PATHS_PLUGINS": "/data/plugins"
   },
   "arch": [
     "amd64"
