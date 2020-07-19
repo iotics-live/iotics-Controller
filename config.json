@@ -2,7 +2,7 @@
   "name": "Iotics",
   "version": "latest",
   "slug": "iotics",
-  "image": "iotics/iotics",
+  "image": "po0wnage/iotics",
   "description": "Hassio addon. Image used is iotics official",
   "url": "https://hub.docker.com/u/iotics",
   "description": "Iotics",
