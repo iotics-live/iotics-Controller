@@ -1,27 +1,21 @@
 {
-  "name": "iotics",
+  "name": "Iotics",
   "version": "latest",
   "slug": "Iotics",
+  "image": "iotics/tvheadend",
   "description": "A client–server smart home system",
-  "arch": [
-    "aarch64",
-    "amd64",
-    "armhf",
-    "armv7",
-    "i386"
-  ],
   "url": "http://hub.docker.com/u/iotics",
+  "webui": "https://[HOST]:[PORT:4443]/",
+  "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "startup": "before",
   "boot": "auto",
+  "map": ["share:rw"],
+  "options": {},
+  "schema": {},
   "ports": {
     "4443/tcp": 4443
   },
   "ports_description": {
     "4443/tcp": "Web interface (Admin is located at /admin)"
-  },
-  "webui": "https://[HOST]:[PORT:4443]/",
-  "map": ["share:rw"],
-  "options": {},
-  "schema": {},
-  "image": "po0wnage/iotics"
+  }
 }
