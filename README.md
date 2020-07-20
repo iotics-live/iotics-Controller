@@ -1,3 +1,7 @@
+## iotics UI Features
+
+- The iotics UI allows admins to create rooms & managed users to help distribute privileges between system users.
+
 ## Restore from snapshot scenario
 
 Hassio has in-build functionality of snapshot, which should back-up both add-on and its database files. 
