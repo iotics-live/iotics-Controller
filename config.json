@@ -4,7 +4,7 @@
   "slug": "iotics UI",
   "description": "A client–server smart home system",
   "image": "po0wnage/iotics",
-  "url": "https://hub.docker.com/r/po0wnage/iotics",
+  "url": "https://hub.docker.com/repository/docker/iotics/iotics",
   "arch": ["amd64"],
   "startup": "before",
   "boot": "auto",
