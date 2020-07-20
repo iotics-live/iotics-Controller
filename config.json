@@ -23,6 +23,8 @@
   "ports_description": {
     "4443/tcp": "Web interface (Admin is located at /admin)"
   },
-  "map": ["share:rw"],
+  "map": [
+    "share:rw"
+  ],
   "image": "po0wnage/iotics"
 }
