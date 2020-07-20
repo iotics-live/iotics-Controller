@@ -2,6 +2,7 @@
   "name": "Iotics UI",
   "version": "0.3.9",
   "slug": "iotics",
+  "description": "iotics UI for managing your home",
   "url": "https://hub.docker.com/u/iotics",
   "webui": "https://[HOST]:[PORT:4443]/",
   "arch": ["amd64"],
