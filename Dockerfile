@@ -14,7 +14,6 @@ ARG BUILD_REF
 ARG BUILD_VERSION
 
 # Labels
-LABEL io.hass.version="0.3.9" io.hass.type="addon" io.hass.arch="armhf|aarch64|i386|amd64"
 
 LABEL \
     io.hass.name="Iotics" \
