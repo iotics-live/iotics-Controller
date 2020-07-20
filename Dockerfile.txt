@@ -12,4 +12,4 @@ LABEL \
     org.label-schema.url="https://github.com/Po0wnage/iotics/" \
     org.label-schema.usage="https://github.com/Po0wnage/iotics/README.md" \
     org.label-schema.vcs-url="https://github.com/Po0wnage/iotics/" \
-    org.label-schema.vendor="Po0wnage"
+    org.label-schema.vendor="iotics"
