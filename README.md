@@ -1,8 +1,8 @@
-## iotics UI
+## iotics
 
-iotics UI is a client–server smart home system that Integrates with Home Assistant. 
+iotics is a client–server smart home system that Integrates with Home Assistant. 
 
-## iotics UI Features
+## iotics Features
 
 - Control Home Assistant entities using a beautiful designed mobile UI.
 - Create rooms & managed users to help distribute privileges between system users.
