@@ -23,6 +23,6 @@
     "4443/tcp": "Web interface (Admin is located at /admin)"
   },
   "map": ["share:rw"],
-  "image": "po0wnage/iotics:0.3.9",
+  "image": "po0wnage/iotics",
   "host_network": "false"
 }
