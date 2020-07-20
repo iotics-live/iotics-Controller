@@ -1,24 +1,13 @@
-FROM mcr.microsoft.com/dotnet/core/sdk:3.1
+ARG BUILD_FROM
+FROM $BUILD_FROM
 
-ARG TAG
-
-ENV IOTICS_VERSION $TAG
-ENV ASPNETCORE_URLS http://*:8095
-ENV ASPNETCORE_ENVIRONMENT Production
 ENV LANG C.UTF-8
 
-# Labels
-LABEL \
-    io.hass.name="iotics" \
-    io.hass.description="A client–server smart home system" \
-    io.hass.arch="${BUILD_ARCH}" \
-    io.hass.type="addon" \
-    io.hass.version=${IOTICS_VERSION} \
-    maintainer="The iotics Team <https://github.com/Po0wnage/iotics/>" \
-    org.label-schema.description="A client–server smart home system" \
-    org.label-schema.name="iotics" \
-    org.label-schema.schema-version="1.0" \    
-    org.label-schema.url="https://github.com/Po0wnage/iotics/" \
-    org.label-schema.usage="https://github.com/Po0wnage/iotics/README.md" \
-    org.label-schema.vcs-url="https://github.com/Po0wnage/iotics/" \
-    org.label-schema.vendor="iotics"
+# Install requirements for add-on
+RUN apk add --no-cache example_alpine_package
+
+# Copy data for add-on
+COPY run.sh /
+RUN chmod a+x /run.sh
+
+CMD [ "/run.sh" ]
