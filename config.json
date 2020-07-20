@@ -16,7 +16,6 @@
   "ports": {
     "4443/tcp": 4443
   },
-  },
   "ports_description": {
     "4443/tcp": "Web interface (Admin is located at /admin)"
   }
