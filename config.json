@@ -13,7 +13,7 @@
   "map": ["share:rw"],
   "options": {},
   "schema": {},
-  "host_network": "true",
+  "stage": "stable",
   "ports": {
     "4443/tcp": 4443
   },
