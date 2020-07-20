@@ -20,6 +20,7 @@
   "ports_description": {
     "4443/tcp": "Web interface (Admin is located at /admin)"
   },
+  "host_network": false,
   "map": [
     "share:rw",
   ],
