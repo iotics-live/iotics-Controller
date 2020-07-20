@@ -4,7 +4,7 @@ The iotics UI is a client–server smart home system that Integrates with Home A
 
 - Control Home Assistant entities using a beautiful designed mobile UI.
 - Create rooms & managed users to help distribute privileges between system users.
-- Set scenes and scheduled automations using built-in easy to use tools.
+- Set scenes and scheduled automations using built-in & easy to use tools.
 - Advanced security features such as Multi-factor authentication & intrusion prevention system.
 
 ## Restore from snapshot scenario
