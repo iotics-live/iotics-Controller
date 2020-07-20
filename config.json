@@ -14,18 +14,15 @@
     "i386"
   ],
   "boot": "auto",
+  "options": {},
+  "schema": {},
   "ports": {
     "4443/tcp": 4443
   },
   "ports_description": {
     "4443/tcp": "Web interface (Admin is located at /admin)"
   },
-  "host_network": false,
-  "map": [
-    "share:rw",
-  ],
-  "image": "po0wnage/iotics"
-  },
+  "map": ["share:rw"],
+  "image": "po0wnage/iotics",
+  "host_network": "true"
 }
-
-
