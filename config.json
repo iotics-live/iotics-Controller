@@ -1,6 +1,6 @@
 {
   "name": "Iotics",
-  "version": "latest",
+  "version": "0.3.9",
   "slug": "iotics Dashboard",
   "image": "po0wnage/iotics",
   "description": "Hassio addon.",
