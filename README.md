@@ -1,7 +1,10 @@
-## iotics Admin Panel Features
+The iotics UI is a client–server smart home system that Integrates with Home Assistant. 
+
+## iotics UI Features
 
 - Control the home using a beautiful designed mobile UI.
 - Create rooms & managed users to help distribute privileges between system users.
+- Supports home assistant entities
 
 ## Restore from snapshot scenario
 
