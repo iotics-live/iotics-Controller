@@ -18,5 +18,5 @@
   "ports_description": {
     "4443/tcp": "Web interface (Admin is located at /admin)"
   },
-  "boot": "true",
+  "host_network": "true",
 }
