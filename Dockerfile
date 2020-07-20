@@ -1,14 +1,32 @@
-ARG BUILD_FROM
-FROM $BUILD_FROM
+FROM mcr.microsoft.com/dotnet/core/sdk:3.1
 
-# Add env
+ARG TAG
+
+ENV IOTICS_VERSION $TAG
+ENV ASPNETCORE_URLS http://*:8095
+ENV ASPNETCORE_ENVIRONMENT Production
 ENV LANG C.UTF-8
 
-# Setup base
-RUN apk add --no-cache jq
+EXPOSE 8095 4443
 
-# Copy data
-COPY run.sh /
-RUN chmod a+x /run.sh
+COPY start.sh .
+RUN chmod +x /start.sh
+ENTRYPOINT /start.sh
 
-CMD [ "/run.sh" ]
+# Labels
+LABEL io.hass.version="0.3.9" io.hass.type="addon" io.hass.arch="armhf|aarch64|i386|amd64"
+
+LABEL \
+    io.hass.name="Iotics" \
+    io.hass.description="Iotics Api." \
+    io.hass.arch="armhf|aarch64|i386|amd64" \
+    io.hass.type="addon" \
+    io.hass.version=${IOTICS_VERSION} \
+    maintainer="Po0wnage <https://github.com/Po0wnage/iotics/>" \
+    org.label-schema.description="Iotics Api." \
+    org.label-schema.name="Iotics" \
+    org.label-schema.schema-version="1.0" \    
+    org.label-schema.url="https://github.com/Po0wnage/iotics/" \
+    org.label-schema.usage="https://github.com/Po0wnage/iotics/README.md" \
+    org.label-schema.vcs-url="https://github.com/Po0wnage/iotics/" \
+    org.label-schema.vendor="Po0wnage"
