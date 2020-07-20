@@ -1,17 +1,17 @@
 {
-  "name": "iotics UI",
+  "name": "iotics",
   "version": "0.3.9",
-  "slug": "iotics UI",
+  "slug": "iotics",
   "description": "A client–server smart home system",
   "image": "po0wnage/iotics",
   "url": "https://hub.docker.com/repository/docker/iotics/iotics",
+  "webui": "https://[HOST]:[PORT:4443]/",
   "arch": ["amd64"],
   "startup": "before",
   "boot": "auto",
   "map": ["share:rw"],
   "options": {},
   "schema": {},
-  "webui": "https://[HOST]:[PORT:4443]/",
   "ports": {
     "4443/tcp": 4443
   },
