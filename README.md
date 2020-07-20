@@ -5,7 +5,7 @@ iotics is a client–server smart home system that Integrates with Home Assistan
 ## iotics Features
 
 - Control Home Assistant entities using a beautiful designed mobile UI.
-- Create rooms & managed users to help distribute privileges between system users.
+- Create rooms & managed users to manage access privileges between system users.
 - Advanced security features such as Multi-factor authentication & intrusion prevention system.
 
 ## Restore from snapshot scenario
