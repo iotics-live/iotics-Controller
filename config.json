@@ -6,6 +6,7 @@
   "image": "po0wnage/iotics",
   "url": "https://hub.docker.com/repository/docker/iotics/iotics",
   "webui": "https://[HOST]:[PORT:4443]/",
+  "host_network": "true",
   "arch": ["amd64"],
   "startup": "before",
   "boot": "auto",
