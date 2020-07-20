@@ -1,16 +1,17 @@
 {
   "name": "Iotics",
   "version": "0.3.9",
-  "slug": "iotics_admin",
+  "slug": "Iotics",
+  "image": "iotics/iotics",
   "description": "A client–server smart home system",
-  "webui": "https://[HOST]:[PORT:4443]/",
-  "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+  "url": "http://hub.docker.com/u/iotics",
+  "webui": "http://[HOST]:[PORT:4443]/",
+  "arch": ["amd64"],
   "startup": "before",
   "boot": "auto",
   "map": ["share:rw"],
   "options": {},
   "schema": {},
-  "image": "po0wnage/iotics",
   "ports": {
     "4443/tcp": 4443
   },
@@ -18,4 +19,3 @@
     "4443/tcp": "Web interface (Admin is located at /admin)"
   }
 }
-
