@@ -19,7 +19,4 @@
     "4443/tcp": "Web interface (Admin is located at /admin)"
   },
   "host_network": "true"
-  "homeassistant_api": true,
-  "apparmor": true,
-  "timeout": 60
 }
