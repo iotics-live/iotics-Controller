@@ -1,6 +1,7 @@
-## iotics UI Features
+## iotics client-server Features
 
-- The iotics UI allows admins to create rooms & managed users to help distribute privileges between system users.
+- Control the home using a beautiful designed mobile UI.
+- Create rooms & managed users to help distribute privileges between system users.
 
 ## Restore from snapshot scenario
 
