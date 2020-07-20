@@ -1,9 +1,9 @@
 {
   "name": "Iotics",
   "version": "latest",
-  "slug": "iotics",
+  "slug": "iotics Dashboard",
   "image": "po0wnage/iotics",
-  "description": "Hassio addon. Image used is iotics official",
+  "description": "Hassio addon.",
   "url": "https://hub.docker.com/u/iotics",
   "description": "Iotics",
   "webui": "https://[HOST]:[PORT:4443]/",
@@ -13,6 +13,7 @@
   "map": ["share:rw"],
   "options": {},
   "schema": {},
+  "host_network": "true",
   "ports": {
     "4443/tcp": 4443
   },
