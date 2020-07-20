@@ -1,11 +1,8 @@
 {
-  "name": "Iotics",
+  "name": "iotics",
   "version": "latest",
-  "slug": "iotics",
+  "slug": "folder",
   "description": "A client–server smart home system",
-  "url": "https://hub.docker.com/repository/docker/iotics/iotics",
-  "webui": "https://[HOST]:[PORT:4443]/",
-  "startup": "application",
   "arch": [
     "aarch64",
     "amd64",
@@ -13,10 +10,12 @@
     "armv7",
     "i386"
   ],
-  "init": false,
+  "startup": "application",
   "boot": "auto",
   "options": {},
   "schema": {},
+  "webui": "https://[HOST]:[PORT:4443]/",
+  "url": "https://hub.docker.com/repository/docker/iotics/iotics",
   "hassio_api": true,
   "ports": {
     "4443/tcp": 4443
