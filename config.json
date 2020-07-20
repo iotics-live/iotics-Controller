@@ -23,5 +23,5 @@
   "map": ["share:rw"],
   "options": {},
   "schema": {},
-  "image": "po0wnage/iotics",
+  "image": "po0wnage/iotics-{arch}"
 }
