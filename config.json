@@ -1,6 +1,6 @@
 {
   "name": "iotics",
-  "version": "0.3.9",
+  "version": "latest",
   "slug": "iotics",
   "description": "A client–server smart home system",
   "url": "https://hub.docker.com/repository/docker/iotics/iotics",
