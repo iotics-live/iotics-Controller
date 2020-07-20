@@ -1,4 +1,4 @@
-## iotics UI Features
+## iotics Admin Panel Features
 
 - Control the home using a beautiful designed mobile UI.
 - Create rooms & managed users to help distribute privileges between system users.
