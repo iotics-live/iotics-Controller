@@ -19,6 +19,7 @@
   "ports_description": {
     "4443/tcp": "Web interface (Admin is located at /admin)"
   },
+  "webui": "https://[HOST]:[PORT:4443]/",
   "map": ["share:rw"],
   "options": {},
   "schema": {},
