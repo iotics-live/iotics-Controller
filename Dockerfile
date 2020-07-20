@@ -9,10 +9,6 @@ ENV LANG C.UTF-8
 
 EXPOSE 8095 4443
 
-COPY start.sh .
-RUN chmod +x /start.sh
-ENTRYPOINT /start.sh
-
 # Labels
 LABEL io.hass.version="0.3.9" io.hass.type="addon" io.hass.arch="armhf|aarch64|i386|amd64"
 
