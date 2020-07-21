@@ -6,7 +6,7 @@
   "description": "A client–server smart home system",
   "url": "http://hub.docker.com/u/iotics",
   "webui": "https://[HOST]:[PORT:4443]/",
-  "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+  "arch": ["armhf", "armv7", "aarch64", "amd64"],
   "startup": "before",
   "boot": "auto",
   "homeassistant_api": true,
