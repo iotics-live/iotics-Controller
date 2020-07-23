@@ -9,6 +9,7 @@
   "arch": ["armhf", "armv7", "aarch64", "amd64"],
   "startup": "before",
   "boot": "auto",
+  "ingress": true,
   "homeassistant_api": true,
   "apparmor": true,
   "map": ["share:rw"],
