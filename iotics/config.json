@@ -10,6 +10,7 @@
   "startup": "before",
   "boot": "auto",
   "ingress": true,
+  "panel_icon": "mdi:wrench",
   "homeassistant_api": true,
   "apparmor": true,
   "map": ["share:rw"],
