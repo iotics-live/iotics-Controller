@@ -10,6 +10,7 @@
   "startup": "before",
   "boot": "auto",
   "ingress": true,
+  "ingress_port": 4443,
   "panel_icon": "mdi:server",
   "homeassistant_api": true,
   "apparmor": true,
