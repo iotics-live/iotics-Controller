@@ -10,7 +10,7 @@
   "startup": "before",
   "boot": "auto",
   "ingress": true,
-  "panel_icon": "mdi:view-dashboard",
+  "panel_icon": "mdi:server-plus",
   "homeassistant_api": true,
   "apparmor": true,
   "map": ["share:rw"],
