@@ -5,20 +5,24 @@
   "image": "po0wnage/iotics",
   "description": "A client–server smart home system",
   "url": "https://hub.docker.com/u/iotics",
-  "webui": "https://[HOST]:[PORT:4443]/",
+  "webui": "[PROTO:ssl]://[HOST]:[PORT:9541]",
   "arch": ["armhf", "armv7", "aarch64", "amd64"],
-  "startup": "before",
+  "startup": "system",
+  "init": false,
   "boot": "auto",
+  "hassio_api": true,
+  "hassio_role": "default",
   "homeassistant_api": true,
   "apparmor": true,
   "map": ["share:rw"],
   "options": {},
   "schema": {},
   "ports": {
-    "4443/tcp": 4443
+    "4443/tcp": 9541
   },
   "ports_description": {
     "4443/tcp": "Web interface (Admin is located at /admin)"
   },
   "host_network": "true"
 }
+
