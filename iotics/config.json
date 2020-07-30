@@ -23,7 +23,7 @@
   "ports_description": {
     "4443/tcp": "Web interface (Admin is located at /admin)"
   },
-  ingress: true
+  ingress: true,
   "host_network": "false"
 }
 
