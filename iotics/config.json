@@ -10,6 +10,7 @@
   "startup": "system",
   "init": false,
   "ingress": true,
+  "ingress_port": 4443
   "boot": "auto",
   "hassio_api": true,
   "hassio_role": "default",
