@@ -5,10 +5,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.3.22] - 2020-08-14
+### Changed
+- Change color of slider buttons
+
 ## [0.3.21] - 2020-08-14
 ### Changed
 - Fix layout issue with automation cards
-- Allow moving room cards accross the page
+- Allow moving room cards across the page
 - Change layout for room details on room settings page
 - Adding service API
 
