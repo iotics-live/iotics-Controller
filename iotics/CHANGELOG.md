@@ -5,6 +5,20 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.3.27] - 2020-08-29
+### Changed
+- Fix LogManager permissions for log endpoints
+
+## [0.3.26] - 2020-08-29
+### Changed
+- Remove Other type of avatars
+
+## [0.3.25] - 2020-08-29
+### Changed
+- Add ability for SystemManager role to manage users
+- Populate user roles for user list endpoints
+- Fix display issue with cut-off table on Automation cards page
+
 ## [0.3.24] - 2020-08-26
 ### Changed
 - Improve logging for user snapshot upload functionality
