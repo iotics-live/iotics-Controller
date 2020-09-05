@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.3.31] - 2020-09-05
+### Changed
+- Add additional parameters for get logs request
+- Change get logs from GET to POST request
+- Add logs for calling Home Assistant services API
+
 ## [0.3.30] - 2020-09-04
 ### Changed
 - Hide backup buttons when disconnected from Home Assistant
