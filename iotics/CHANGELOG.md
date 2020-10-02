@@ -5,6 +5,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.3.42] - 2020-09-25
+### Changed
+- Add ability to select unassigned entities for automations (issue #157)
+
+## [0.3.41] - 2020-09-23
+### Changed
+- Fixed tooltips (issue #169)
+- Fix behavior of automations during update (issue #170)
+
+## [0.3.40] - 2020-09-21
+### Changed
+- Adjustments for Split AC (HVAC mode 'off' one more time)
+
 ## [0.3.39] - 2020-09-19
 ### Changed
 - Adjustments for Split AC (HVAC mode 'off')
