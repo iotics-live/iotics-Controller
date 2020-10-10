@@ -5,6 +5,23 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.3.47] - 2020-10-10
+### Changed
+- Fix passcode check during authentication
+
+## [0.3.46] - 2020-10-10
+### Changed
+- Add Guest role #147
+
+## [0.3.45] - 2020-10-07
+### Changed
+- Check entity's icon gloablly across all added cards
+- Fix issue when automation state can be managed via Admin UI when updated directly in Home Assistant
+
+## [0.3.44] - 2020-10-06
+### Changed
+- Add admin login API
+
 ## [0.3.43] - 2020-10-03
 ### Changed
 - Center Avatar and room Icons #168
