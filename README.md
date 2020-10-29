@@ -1,6 +1,6 @@
 ## iotics
 
-iotics is a client–server smart home system that Integrates with Home Assistant. 
+iotics is a server-client smart home system that Integrates with Home Assistant. 
 
 ## iotics Features
 
