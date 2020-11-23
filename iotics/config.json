@@ -33,6 +33,6 @@
     "4447/tcp": "Admin UI reserved location",
     "4448/tcp": "Admin UI reserved location"
   },
-  "host_network": "false"
+  "host_network": "true"
 }
 
