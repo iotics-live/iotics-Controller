@@ -20,8 +20,21 @@
   "ports": {
     "4443/tcp": 4443
   },
+  "ports": {
+    "4443/tcp": 4443,
+    "4444/tcp": 4444,
+    "4445/tcp": 4445,
+    "4446/tcp": 4446,
+    "4447/tcp": 4447,
+    "4448/tcp": 4448
+  },
   "ports_description": {
-    "4443/tcp": "Web interface (Admin is located at /admin)"
+    "4443/tcp": "Web interface (Admin is located at /admin)",
+    "4444/tcp": "Admin UI reserved location",
+    "4445/tcp": "Admin UI reserved location",
+    "4446/tcp": "Admin UI reserved location",
+    "4447/tcp": "Admin UI reserved location",
+    "4448/tcp": "Admin UI reserved location"
   },
   "host_network": "false"
 }
