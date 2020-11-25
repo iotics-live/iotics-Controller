@@ -5,6 +5,30 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.3.67] - 2020-11-25
+### Changed
+- UI updates
+
+## [0.3.66] - 2020-11-24
+### Changed
+- Add different ports to nginx configuration (preparations for locations feature)
+
+## [0.3.65] - 2020-11-23
+### Changed
+- Add X-Forwarded-Port for nginx configuration
+
+## [0.3.64] - 2020-11-23
+### Changed
+- Add remote port to logs
+
+## [0.3.63] - 2020-11-23
+### Changed
+- Add additional ports for locations
+
+## [0.3.62] - 2020-11-21
+### Changed
+- Add automatic backup settings for logs, also polishing auto backup functionality for snapshots
+
 ## [0.3.61] - 2020-11-21
 ### Changed
 - Adding pagination to Backups page (+ changing icons)
