@@ -1,6 +1,6 @@
 {
   "name": "Iotics",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "slug": "Iotics",
   "image": "po0wnage/iotics",
   "description": "A  server-client smart home system",
