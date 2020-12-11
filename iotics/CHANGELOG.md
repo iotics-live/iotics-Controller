@@ -5,6 +5,35 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.5.4] - 2020-12-08
+### Changed
+- Fix IP Blacklisting
+
+## [0.5.3] - 2020-12-08
+### Changed
+- Don't update selected location on Location update
+- Fix Logs and Backup icon active state in left menu for FTP settings page
+- Add Daily option to backup settings, change Monthly option to day of the month
+- Don't show backup frequency options if backup is not enabled
+
+## [0.5.2] - 2020-12-08
+### Changed
+- Navigate to Dashboard after switching between locations
+- Update selected location when create/update/delete a location and navigate to Dashboard
+- Select default location for each sign on
+
+## [0.5.1] - 2020-12-08
+### Changed
+- Add DeviceModel to Connection
+- Remove upload icon hint on Backup page 
+- Add space between icon and text on Logs page
+- Add AccessToken for closing connection on sign out
+- Set authentication token lifetime to 5 min instead of 1 hour
+- Add Whitelist / Blacklist links on Clients page
+- Fix issue with not being able to set passcode for more than one location
+- Add default passcode 12345678 when creating new location
+- Fix bug when downloading logs
+
 ## [0.5.0] - 2020-12-05
 ### Changed
 - Fixing UI issues
