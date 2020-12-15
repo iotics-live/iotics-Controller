@@ -5,34 +5,76 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.5.4] - 2020-12-08
+## [0.5.11] - 2020-12-15
 ### Changed
-- Fix IP Blacklisting
+- Fix issue with login and Fail2Ban
 
-## [0.5.3] - 2020-12-08
+## [0.5.10] - 2020-12-14
 ### Changed
-- Don't update selected location on Location update
-- Fix Logs and Backup icon active state in left menu for FTP settings page
-- Add Daily option to backup settings, change Monthly option to day of the month
-- Don't show backup frequency options if backup is not enabled
+- Adding temporary Home Assistant initialization from default location to display time on login page
+- Align logo and left menu
+- Align records on Logs page
+- Fix Fail2Ban to be applied per user for passcode
+- Fix user name in different places appearing with location ID
 
-## [0.5.2] - 2020-12-08
+## [0.5.9] - 2020-12-13
 ### Changed
-- Navigate to Dashboard after switching between locations
-- Update selected location when create/update/delete a location and navigate to Dashboard
-- Select default location for each sign on
+- Change user profile Fail2ban interval for 5 to 3 mins
+
+## [0.5.8] - 2020-12-12
+### Changed
+- Note #30 - fixing Fail2Ban for profiles
+- Note #31 - Client left menu icon is active for Fail2Ban page
+- Fix issue with downloading snapshots
+
+## [0.5.7] - 2020-12-12
+### Changed
+- Fixing issue with port on client side
+
+## [0.5.6] - 2020-12-12
+### Changed
+- Note #4 - each location has own Home Assistant settings
+- Note #8 - each location should have default application passcode
+- Note #19 - fix issue when unable to create users with same name in different locations
+- Adding icon for type of Backup (auto or manual) (note - icon is not yet aligned propery on UI)
+- Note #24 - adding logs for enable/disable backups
+- Note #25 - fix logs for enable/disable/test FTP for Logs and Snapshots
+- Note #26 - restore logs for snapshots
+- Note #28 - display most recent session uptime for Clients page
+- Note #29 - update FTP settings in case of successful test
+
+## [0.5.5] - 2020-12-11
+### Changed
+- Note #1 - fix duplicates for same IP address on Clients page
+
+## [0.5.4] - 2020-12-11
+### Changed
+- Note #16 and #17 - fix IP Blacklisting
+
+## [0.5.3] - 2020-12-10
+### Changed
+- Note #18 - don't update selected location on Location update
+- Note #12 - fix Logs and Backup icon active state in left menu for FTP settings page
+- Note #6 - add Daily option to backup settings, change Monthly option to day of the month
+- Note #5 - don't show backup frequency options if backup is not enabled
+
+## [0.5.2] - 2020-12-09
+### Changed
+- Note #7 - navigate to Dashboard after switching between locations
+- Note #13 and #14 - update selected location when create/update/delete a location and navigate to Dashboard
+- Note #15 - select default location for each sign on
 
 ## [0.5.1] - 2020-12-08
 ### Changed
 - Add DeviceModel to Connection
 - Remove upload icon hint on Backup page 
 - Add space between icon and text on Logs page
-- Add AccessToken for closing connection on sign out
-- Set authentication token lifetime to 5 min instead of 1 hour
-- Add Whitelist / Blacklist links on Clients page
-- Fix issue with not being able to set passcode for more than one location
-- Add default passcode 12345678 when creating new location
-- Fix bug when downloading logs
+- Note #2 - add AccessToken for closing connection on sign out
+- Note #2 - set authentication token lifetime to 5 min instead of 1 hour
+- Note #3 - Add Whitelist / Blacklist links on Clients page
+- Note #9 - fix issue with not being able to set passcode for more than one location
+- Note #8 - add default passcode 12345678 when creating new location
+- Note #11 - fix bug when downloading logs
 
 ## [0.5.0] - 2020-12-05
 ### Changed
