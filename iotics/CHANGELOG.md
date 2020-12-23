@@ -5,6 +5,39 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.5.16] - 2020-12-23
+### Changed
+- Add a trash icon for Clients page
+- Add support for 25 locations
+- Fix HUAWEI to display as Android device
+- Making left menu sticky
+- Center avatar on Automations page
+
+## [0.5.15] - 2020-12-22
+### Changed
+- Fix location for logging several missing actions (Enable/disable 2FA, switching locations, logs download)
+
+## [0.5.14] - 2020-12-22
+### Changed
+- Fix Android icon for Clients page
+- Fix issue with server date time on Login page
+
+## [0.5.13] - 2020-12-21
+### Changed
+- Add deletion of snapshots from FTP
+- Sort client connections by uptime and then by last seen (both descending)
+
+## [0.5.12] - 2020-12-20
+### Changed
+- Note #22 - remove upper border table row on Clients page
+- Note #23 - add icons for Backup buttons
+- Note #27 - add Confirm button to Auto Backup
+- Fix locations menu width
+- Fix locations menu position
+- Move locations and user profile menu lower
+- Adding sticky header
+- Fix issue cursor is always a pointer when on Backup icons
+
 ## [0.5.11] - 2020-12-15
 ### Changed
 - Fix issue with login and Fail2Ban
