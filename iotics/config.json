@@ -43,7 +43,7 @@
     "4465/tcp": 4465,
     "4466/tcp": 4466,
     "4467/tcp": 4467,
-    "4478/tcp": 4468,
+    "4478/tcp": 4468
   },
   "ports_description": {
     "4443/tcp": "Web interface (Admin is located at /admin)",
@@ -71,7 +71,7 @@
     "4465/tcp": "Admin UI reserved location",
     "4466/tcp": "Admin UI reserved location",
     "4467/tcp": "Admin UI reserved location",
-    "4468/tcp": "Admin UI reserved location",
+    "4468/tcp": "Admin UI reserved location"
   },
   "host_network": "false"
 }
