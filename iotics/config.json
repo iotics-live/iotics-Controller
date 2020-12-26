@@ -52,6 +52,26 @@
     "4446/tcp": "Admin UI reserved location",
     "4447/tcp": "Admin UI reserved location",
     "4448/tcp": "Admin UI reserved location"
+    "4449/tcp": "Admin UI reserved location",
+    "4450/tcp": "Admin UI reserved location",
+    "4451/tcp": "Admin UI reserved location",
+    "4452/tcp": "Admin UI reserved location",
+    "4453/tcp": "Admin UI reserved location"
+    "4454/tcp": "Admin UI reserved location",
+    "4455/tcp": "Admin UI reserved location",
+    "4456/tcp": "Admin UI reserved location",
+    "4457/tcp": "Admin UI reserved location",
+    "4458/tcp": "Admin UI reserved location"
+    "4459/tcp": "Admin UI reserved location",
+    "4460/tcp": "Admin UI reserved location",
+    "4461/tcp": "Admin UI reserved location",
+    "4462/tcp": "Admin UI reserved location",
+    "4463/tcp": "Admin UI reserved location"
+    "4464/tcp": "Admin UI reserved location",
+    "4465/tcp": "Admin UI reserved location",
+    "4466/tcp": "Admin UI reserved location",
+    "4467/tcp": "Admin UI reserved location",
+    "4468/tcp": "Admin UI reserved location"
   },
   "host_network": "false"
 }
