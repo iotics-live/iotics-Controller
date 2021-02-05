@@ -5,6 +5,172 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.5.50] - 2021-02-03
+### Changed
+- Add payload field to call Services request to improve logging (better track entity location)
+- Allow authorized users to make requests to Statistics
+
+## [0.5.49] - 2021-02-02
+### Changed
+- Adding custom scroll for Dashboard
+
+## [0.5.48] - 2021-02-02
+### Changed
+- Error handling for Dashboard
+
+## [0.5.47] - 2021-02-02
+### Changed
+- Fixing empty sequence exception in HADotNet
+
+## [0.5.46] - 2021-02-01
+### Changed
+- Adding details to Groups Stats panel on Dashboard
+- Adding details to Rooms Stats panel on Dashboard
+- Adding details to Automation Stats panel on Dashboard
+
+## [0.5.45] - 2021-02-01
+### Changed
+- Dashboard UI fixes
+
+## [0.5.44] - 2021-02-01
+### Changed
+- Adding details to Most Active Client panel on Dashboard
+- Adding details to Device Stats panel on Dashboard
+- Adding details to Available Devices panel on Dashboard
+
+## [0.5.43] - 2021-02-01
+### Changed
+- Adding details to Most Active Automations panel on Dashboard
+
+## [0.5.42] - 2021-01-31
+### Changed
+- Adding details to Most Active Devices panel on Dashboard
+
+## [0.5.41] - 2021-01-31
+### Changed
+- Fix Dashboard UI issue causing page to fail
+
+## [0.5.40] - 2021-01-30
+### Changed
+- UI fixes to new Dashboard (add additional rows in case not all data is available)
+- Fix create automation logs
+- Changes to log entries for automatic backups
+
+## [0.5.39] - 2021-01-30
+### Changed
+- Adding Available Devices panel to Dashboard
+
+## [0.5.38] - 2021-01-30
+### Changed
+- Adding Device Stats panel to Dashboard
+- Adding Groups Stats panel to Dashboard
+- Adding Rooms Stats panel to Dashboard
+- Adding Automations Stats panel to Dashboard
+
+## [0.5.37] - 2021-01-30
+### Changed
+- Adding Home Assistant Core Stats panel to Dashboard
+
+## [0.5.36] - 2021-01-30
+### Changed
+- Adding Most Active Clients panel to Dashboard
+
+## [0.5.35] - 2021-01-30
+### Changed
+- Adding Most Triggered Automations panel to Dashboard
+
+## [0.5.34] - 2021-01-30
+### Changed
+- Adding Most Visited Room panel to Dashboard
+
+## [0.5.33] - 2021-01-30
+### Changed
+- Adding Most Active Devices panel to Dashboard
+
+## [0.5.32] - 2021-01-28
+### Changed
+- Increase refresh token expiration to 365 days
+
+## [0.5.31] - 2021-01-22
+### Changed
+- Include Split AC in logs
+- Rename filter Relay to Switch on Logs page
+
+## [0.5.30] - 2021-01-22
+### Changed
+- Change sorting for Client Connections page (#248) 
+
+## [0.5.29] - 2021-01-20
+### Changed
+- Adding temp sensor for rooms response
+- Fix issue with Card icons
+
+## [0.5.28] - 2021-01-17
+### Changed
+- Admin filter on Logs page turned on by default
+- New Dashboard page - System overview
+
+## [0.5.27] - 2021-01-16
+### Changed
+- Add filter to Logs page for entries with no location
+- Add size of snapshot to database and UI
+
+## [0.5.26] - 2021-01-10
+### Changed
+- IP Address field is placed over sticky header
+
+## [0.5.25] - 2021-01-01
+### Changed
+- Another fix issue with Enable/Disable 2FA
+- Fix for backup file name to reflect scheduled time
+
+## [0.5.24] - 2020-12-31
+### Changed
+- Fix issue with Enable/Disable 2FA
+
+## [0.5.23] - 2020-12-31
+### Changed
+- Re-work notifications
+- Fix for auto backup process start
+
+## [0.5.22] - 2020-12-31
+### Changed
+- Align space between left menu icons
+- Make Logs filter sticky
+- Make Backups table header sticky
+- Make Clients table header sticky
+- Remove extra space when adding devices
+- Move default location to top and add star icon
+
+## [0.5.21] - 2020-12-29
+### Changed
+- Fix issue with connecting to Home Assistant v.2020
+
+## [0.5.20] - 2020-12-28
+### Changed
+- Adding Temp sensor to rooms
+- Adjust Fail2Ban to work same way as Auto Backup settings
+- Add alert notifications to Login page
+- Fix for changing location name not reflected in top menu
+- Fix issue with Test Connection for FTP
+- Add log entry for manual upload of snapshot
+
+## [0.5.19] - 2020-12-26
+### Changed
+- Adding notifications
+
+## [0.5.18] - 2020-12-26
+### Changed
+- Fix config.json file issue with additional commas
+- Fix issue with Enable/Disable FTP settings
+- Changing automatic logout dialog to be less intrusive
+
+## [0.5.17] - 2020-12-25
+### Changed
+- Adding Delete button FTP settings page
+- UI change for Clients page when no records in the table
+- Preparation for adding new Alert notifications
+
 ## [0.5.16] - 2020-12-23
 ### Changed
 - Add a trash icon for Clients page
