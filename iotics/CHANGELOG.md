@@ -5,6 +5,138 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## TODO
+- Room, page, card can be deleted if there is no relation to group
+- Group select child entities validation (like for automations)
+- Test color in Home Assistant when selecting for automation actions (Test, Turn Off, Confirm)
+- Notifications about states changes
+
+## [0.5.80] - 2021-05-05
+### Changed
+- Fix automation execution status
+- Default white value to 0 for RGB bulbs
+- Don't select cards with same entity during automation creation/editing
+
+## [0.5.79] - 2021-05-05
+### Changed
+- Fix edit card
+- Fix edit location
+
+## [0.5.78] - 2021-05-04
+### Changed
+- Allow editing only name of the card if is part of any automation
+- Hidden cards
+
+## [0.5.77] - 2021-05-01
+### Changed
+- Count device "closed" state as inactive (current state and device uptime)
+- Add color wheel to color lamp action
+- Prevent deleting group that is referenced by card(s)
+- Prevent deleting any room, page or cards if there are references to any automation
+
+## [0.5.76] - 2021-04-28
+### Changed
+- Add Lock device type
+- Add ability protect lock devices with PIN Code
+
+## [0.5.75] - 2021-04-25
+### Changed
+- Add Light Color mode automation action
+
+## [0.5.74] - 2021-04-24
+### Changed
+- Fix Home Assistant restart
+- Add Color/White lights into one card
+
+## [0.5.73] - 2021-04-17
+### Changed
+- Fixes to refresh page after location is selected
+
+## [0.5.72] - 2021-04-11
+### Changed
+- Fixes to batch management on Client Connections page
+
+## [0.5.71] - 2021-04-10
+### Changed
+- Add batch management to Client Connections page
+- Add application logs link to error notifications
+- Making temp sensor optional for room (Sensor deselect request)
+- Add devices with temperature to add/edit room (Temp Sensor Request)
+- Refresh 2fa bar-code (008 Change 2fa)
+- Add logs on Admin UI start and stop
+- Add Fcm Token to user login request
+
+## [0.5.70] - 2021-03-27
+### Changed
+- Adjust hub connection error
+
+## [0.5.69] - 2021-03-26
+### Changed
+- Prevent hub creation on login page
+
+## [0.5.68] - 2021-03-20
+### Changed
+- Fix SignalR hub connection
+
+## [0.5.67] - 2021-03-19
+### Changed
+- Fix not counting of room visits from Admin UI
+- Add caller to errors
+
+## [0.5.66] - 2021-03-17
+### Changed
+- Do not display SignalR errors on UI
+
+## [0.5.65] - 2021-03-15
+### Changed
+- Allow anonymous users to get list of available locations
+- Dashboard UI fixes
+
+## [0.5.64] - 2021-03-14
+### Changed
+- Display device IP in Dashboard statistics panel
+
+## [0.5.63] - 2021-03-13
+### Changed
+- Do not count visits to Room from Admin UI
+- Update Dashboard styles
+
+## [0.5.62] - 2021-03-13
+### Changed
+- Updates to Dahboard
+- Fix counting of automation triggers
+- Add App Logs page
+
+## [0.5.61] - 2021-02-28
+### Changed
+- Sync automation state with Home Assistant via websockets (fallback to cron job once a minute)
+
+## [0.5.60] - 2021-02-27
+### Changed
+- Sync automation state with Home Assistant
+
+## [0.5.59] - 2021-02-21
+### Changed
+- Fix to device uptime calculations
+- Making datetime ISO 8601 in Statistics responses
+
+## [0.5.58] - 2021-02-21
+### Changed
+- Fixing CORS policy for websockets
+
+## [0.5.57] - 2021-02-20
+### Changed
+- Adding websocket for Home Assistant state changes (/hubs/home-assistant-hub)
+
+## [0.5.56] - 2021-02-09
+### Changed
+- Fix Rooms Stat panel height
+- Fix Scoll for Mobile
+
+## [0.5.55] - 2021-02-09
+### Changed
+- Fix panel heights
+
 ## [0.5.54] - 2021-02-08
 ### Changed
 - Remove trash icon from White/Black lists
