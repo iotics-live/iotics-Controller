@@ -2,7 +2,7 @@
   "name": "Iotics",
   "version": "0.9.5",
   "slug": "Iotics",
-  "image": "po0wnage/iotics",
+  "image": "iotics/iotics-controller",
   "description": "A  server-client smart home system",
   "url": "https://hub.docker.com/u/iotics",
   "webui": "https://[HOST]:[PORT:4443]/",
