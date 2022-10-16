@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.9.9] - 2022-10-16
+### Changed
+- Move application password from Client Connections to Locations page
+- Improvements to Connect to Home Assistant page
+- Hide advanced features on Tools page
+- Deprecate AppDeveloperSettings configuration
+- Fix issue - location name not updated
+- Fix issue - iotics controller port switch doesn't work from Admin UI settings
+- Fix UI issues
+
 ## [0.9.8] - 2022-10-09
 ### Changed
 - Automatically restart Home Assistant if required by auto-configuration
