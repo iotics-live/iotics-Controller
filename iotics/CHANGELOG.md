@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.9.10] - 2022-10-22
+### Changed
+- Remove port `6666` from list of ports supported
+- Allow import Home Assistant automations multiple times
+- Add No Sensor option for cards
+- Add default filters for notification settings
+- Fix issue - power sensors not showing up
+- Fix issue - Muslim prayer automations not being editable
+- Fix issue - color switch dialog is not working
+- Fix issue - null reference exception for statistics Api
+
 ## [0.9.9] - 2022-10-16
 ### Changed
 - Move application password from Client Connections to Locations page
