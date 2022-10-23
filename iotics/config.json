@@ -1,19 +1,12 @@
 {
-  "name": "Iotics",
+  "name": "Iotics Admin",
   "version": "0.9.10",
-  "slug": "Iotics",
-  "image": "iotics/iotics-controller",
-  "description": "A  server-client smart home system",
-  "url": "https://hub.docker.com/u/iotics",
+  "slug": "iotics_admin",
+  "description": "Iotics Admin",
   "webui": "https://[HOST]:[PORT:4443]/",
-  "arch": ["armhf", "armv7", "aarch64", "amd64"],
-  "startup": "system",
-  "init": false,
+  "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+  "startup": "application",
   "boot": "auto",
-  "hassio_api": true,
-  "hassio_role": "default",
-  "homeassistant_api": true,
-  "apparmor": true,
   "map": ["config:rw", "share:rw", "backup:rw", "media:rw"],
   "options": {},
   "schema": {},
@@ -61,10 +54,10 @@
     "6633/tcp": 6633,
     "6644/tcp": 6644,
     "6655/tcp": 6655,
-    "6666/tcp": 6666,
     "6677/tcp": 6677,
     "6688/tcp": 6688,
-    "6699/tcp": 6699
+    "6699/tcp": 6699,
+    "7700/tcp": 7700
   },
   "ports_description": {
     "8096/tcp": "Infrastructure port (for uploads)",
@@ -110,10 +103,9 @@
     "6633/tcp": "Additional Admin UI Web interface port 14",
     "6644/tcp": "Additional Admin UI Web interface port 15",
     "6655/tcp": "Additional Admin UI Web interface port 16",
-    "6666/tcp": "Additional Admin UI Web interface port 17",
-    "6677/tcp": "Additional Admin UI Web interface port 18",
-    "6688/tcp": "Additional Admin UI Web interface port 19",
-    "6699/tcp": "Additional Admin UI Web interface port 20"
-  },
-  "host_network": "false"
+    "6677/tcp": "Additional Admin UI Web interface port 17",
+    "6688/tcp": "Additional Admin UI Web interface port 18",
+    "6699/tcp": "Additional Admin UI Web interface port 19",
+    "7700/tcp": "Additional Admin UI Web interface port 20"
+  }
 }
