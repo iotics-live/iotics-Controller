@@ -61,10 +61,10 @@
     "6633/tcp": 6633,
     "6644/tcp": 6644,
     "6655/tcp": 6655,
-    "6666/tcp": 6666,
     "6677/tcp": 6677,
     "6688/tcp": 6688,
-    "6699/tcp": 6699
+    "6699/tcp": 6699,
+    "7700/tcp": 7700
   },
   "ports_description": {
     "8096/tcp": "Infrastructure port (for uploads)",
@@ -110,10 +110,10 @@
     "6633/tcp": "Additional Admin UI Web interface port 14",
     "6644/tcp": "Additional Admin UI Web interface port 15",
     "6655/tcp": "Additional Admin UI Web interface port 16",
-    "6666/tcp": "Additional Admin UI Web interface port 17",
-    "6677/tcp": "Additional Admin UI Web interface port 18",
-    "6688/tcp": "Additional Admin UI Web interface port 19",
-    "6699/tcp": "Additional Admin UI Web interface port 20"
-  },
+    "6677/tcp": "Additional Admin UI Web interface port 17",
+    "6688/tcp": "Additional Admin UI Web interface port 18",
+    "6699/tcp": "Additional Admin UI Web interface port 19",
+    "7700/tcp": "Additional Admin UI Web interface port 20"
+  }
   "host_network": "false"
 }
