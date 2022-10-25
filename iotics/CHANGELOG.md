@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.9.11] - 2022-10-24
+### Changed
+- Add favourite automations Api
+
 ## [0.9.10] - 2022-10-22
 ### Changed
 - Remove port `6666` from list of ports supported
