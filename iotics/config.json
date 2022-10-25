@@ -114,6 +114,6 @@
     "6688/tcp": "Additional Admin UI Web interface port 18",
     "6699/tcp": "Additional Admin UI Web interface port 19",
     "7700/tcp": "Additional Admin UI Web interface port 20"
-  }.
+  },
   "host_network": "false"
 }
