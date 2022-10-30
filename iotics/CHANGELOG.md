@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.10.0] - 2022-10-29
+### Changed
+- Force entity popup notice for adding room device
+- Differentiate between imported schedule and scene automations
+- Fix issue - not able to import Home Assistant automation multiple times
+- Fix issue - disconnected devices are not shown
+- Fix issue - limit on snapshot upload increased from 128MB to 4GB
+
 ## [0.9.11] - 2022-10-24
 ### Changed
 - Add favourite automations Api
