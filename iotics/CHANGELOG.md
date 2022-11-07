@@ -7,6 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.10.3] - 2022-11-06
+### Changed
+- Fix issue - port discovery to returns only UI configured ports
+
+## [0.10.2] - 2022-11-05
+### Changed
+- Add automated database backup/restore
+
+## [0.10.1] - 2022-11-05
+### Changed
+- Fix issue - disable volume selector if card is disabled
+
 ## [0.10.0] - 2022-10-29
 ### Changed
 - Force entity popup notice for adding room device
