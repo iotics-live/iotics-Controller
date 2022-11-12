@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.10.4] - 2022-11-12
+### Changed
+- Fix issue - incorrect database backup folder fails database restore
+
 ## [0.10.3] - 2022-11-06
 ### Changed
 - Fix issue - port discovery to returns only UI configured ports
