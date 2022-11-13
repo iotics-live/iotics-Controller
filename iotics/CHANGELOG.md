@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.10.5] - 2022-11-13
+### Changed
+- Fix issue - database restore backup
+
 ## [0.10.4] - 2022-11-12
 ### Changed
 - Fix issue - incorrect database backup folder fails database restore
