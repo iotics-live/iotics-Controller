@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.10.6] - 2022-11-19
+### Changed
+- Fix issue - delete favourite automation once automation itself is deleted
+- Fix issue - filtered/excluded notification settings disappearing
+- Fix breaking change with integrations
+
 ## [0.10.5] - 2022-11-13
 ### Changed
 - Fix issue - database restore backup
