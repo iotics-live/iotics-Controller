@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.10.7] - 2022-11-28
+### Changed
+- Adjust snapshot upload message in case snapshot with this name already exists
+- Fix issue - imported automations are shown as regular automations
+- Fix issue - deleting automation doesn't delete related favourite automations
+
+## [0.10.7] - 2022-11-20
+### Changed
+- Show not configured ports on login page
+
 ## [0.10.6] - 2022-11-19
 ### Changed
 - Fix issue - delete favourite automation once automation itself is deleted
