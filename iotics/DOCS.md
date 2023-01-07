@@ -7,6 +7,6 @@ runtime in a single click.
 
 ## Installation
 
-Username: admin
-Password: password
-Port: 4443
+- Username: admin
+- Password: password
+- Port: 4443
