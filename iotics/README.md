@@ -9,4 +9,6 @@ iotics is a server-client smart home system that Integrates with Home Assistant.
 - Advanced security features such as Multi-factor authentication & intrusion prevention system.
 
 
-
+## Default Username & Password
+- Username: admin
+- Password: password
