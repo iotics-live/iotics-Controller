@@ -6,7 +6,8 @@ Setup and control your Home Assistant OS with the iotics intuitive user interfac
 
 - Multiple instance support
 - User share permissions
-- Customizable UI & dashboards
+- Personalized dashboards
+- Customizable UI
 - History & statistics
 - Event notifications
 
