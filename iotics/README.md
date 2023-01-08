@@ -10,6 +10,7 @@ Setup and control your Home Assistant OS with the iotics intuitive user interfac
 - Customizable UI
 - History & statistics
 - Event notifications
+- Secure remote access
 
 ![iotics dashboard](https://github.com/iotics-live/iotics-Controller/blob/master/iotics/Images/screenshot-003.png?raw=true)
 ![iotics user selection](https://github.com/iotics-live/iotics-Controller/blob/master/iotics/Images/screenshot-001.png?raw=true)
