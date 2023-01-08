@@ -1,6 +1,6 @@
 ## About
 
-Setup and control your Home Assistant OS with the iotics intuitive user interface. iotics simplistic design aims to introduce home automation to the diffrent family members while maintaining control & user privacy. iotics will not collect any personal data.
+Setup and control your Home Assistant OS with the iotics intuitive user interface. iotics simplistic design aims to introduce home automation to the diffrent family members while maintaining control & user privacy. 
 
 ## Features
 
@@ -11,6 +11,7 @@ Setup and control your Home Assistant OS with the iotics intuitive user interfac
 - History & statistics
 - Event notifications
 - Secure remote access
+- Local and private
 
 ![iotics dashboard](https://github.com/iotics-live/iotics-Controller/blob/master/iotics/Images/screenshot-003.png?raw=true)
 ![iotics user selection](https://github.com/iotics-live/iotics-Controller/blob/master/iotics/Images/screenshot-001.png?raw=true)
