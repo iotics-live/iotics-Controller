@@ -6,7 +6,7 @@ This add-on serves as a backend for the iotics mobile application. The webapp in
 
 ![iotics dashboard](https://github.com/iotics-live/iotics-Controller/blob/master/iotics/Images/screenshot-001.png?raw=true)
 
-## Default Username & Password for the Controller interface (beta)
+## Default Username & Password for the admin interface (beta)
 - Username: admin
 - Password: password
 - Port: 4443
