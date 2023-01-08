@@ -4,6 +4,7 @@ Setup and control your Home Assistant OS with the iotics intuitive user interfac
 
 ![iotics dashboard](https://github.com/iotics-live/iotics-Controller/blob/master/iotics/Images/screenshot-001.png?raw=true)
 ![iotics user selection](https://github.com/iotics-live/iotics-Controller/blob/master/iotics/Images/screenshot-002.png?raw=true)
+
 ## Default admin interface credentials (beta)
 - Username: admin
 - Password: password
