@@ -1,4 +1,4 @@
-## Introduction to iotics
+## About
 
 Setup and control your Home Assistant OS with the iotics intuitive user interface. iotics offers advance tools to help manage your home with user permissions, multiple instance suupport, device statistics, event notifications & more. iotics utilizes local protocols & focuses on user privacy. iotics does not collect any personal data.
 
