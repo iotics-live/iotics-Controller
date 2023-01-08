@@ -52,3 +52,5 @@ SOFTWARE.
 [issue]: https://github.com/hassio-addons/addon-plex/issues
 [reddit]: https://reddit.com/r/homeassistant
 
+
+[![Open your Home Assistant instance and show the dashboard of a Supervisor add-on.](https://my.home-assistant.io/badges/supervisor_addon.svg)](https://my.home-assistant.io/redirect/supervisor_addon/?repository_url=https%3A%2F%2Fgithub.com%2Fiotics-live%2Fiotics-Controller&addon=iotics+Controller)
