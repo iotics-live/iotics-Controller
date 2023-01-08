@@ -11,9 +11,7 @@ The installation of this add-on is pretty straightforward and not different in
 comparison to installing any other Home Assistant add-on.
 
 1. Click the Home Assistant My button below to open the add-on on your Home
-   Assistant instance.
-
-[![Open your Home Assistant instance and show the dashboard of a Supervisor add-on.](https://my.home-assistant.io/badges/supervisor_addon.svg)](https://my.home-assistant.io/redirect/supervisor_addon/?repository_url=https%3A%2F%2Fgithub.com%2Fiotics-live%2Fiotics-Controller&addon=iotics+Controller)
+   Assistant instance. [![Open your Home Assistant instance and show the dashboard of a Supervisor add-on.](https://my.home-assistant.io/badges/supervisor_addon.svg)](https://my.home-assistant.io/redirect/supervisor_addon/?repository_url=https%3A%2F%2Fgithub.com%2Fiotics-live%2Fiotics-Controller&addon=iotics+Controller)
 
 2. Click the "Install" button to install the add-on.
 3. Start the "iotics Controller" add-on.
