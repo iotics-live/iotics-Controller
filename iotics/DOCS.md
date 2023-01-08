@@ -16,7 +16,6 @@ comparison to installing any other Home Assistant add-on.
    [![Open this add-on in your Home Assistant instance.][addon-badge]][addon]
 
 1. Click the "Install" button to install the add-on.
-1. Update the add-on config with the claim code you've got in the previous step.
 1. Start the "iotics Controller" add-on.
 1. Login to the iotics admin interface and complete the setup process.
 
@@ -50,12 +49,6 @@ SOFTWARE.
 
 [addon-badge]: https://my.home-assistant.io/badges/supervisor_addon.svg
 [addon]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=a0d7b954_plex&repository_url=https%3A%2F%2Fgithub.com%2Fhassio-addons%2Frepository
-[contributors]: https://github.com/hassio-addons/addon-plex/graphs/contributors
-[discord-ha]: https://discord.gg/c5DvZ4e
-[discord]: https://discord.me/hassioaddons
-[forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-plex-media-server/54383?u=frenck
-[frenck]: https://github.com/frenck
 [issue]: https://github.com/hassio-addons/addon-plex/issues
 [reddit]: https://reddit.com/r/homeassistant
-[releases]: https://github.com/hassio-addons/addon-plex/releases
-[semver]: http://semver.org/spec/v2.0.0.htm
+
