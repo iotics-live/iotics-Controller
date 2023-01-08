@@ -4,7 +4,7 @@ Setup and control your Home Assistant OS with the iotics intuitive user interfac
 
 This add-on serves as a backend for the iotics mobile application. The webapp in currently under development.
 
-![iotics dashboard](https://github.com/iotics-live/iotics-Controller/blob/master/iotics/Images/screenshot.png?raw=true)
+![iotics dashboard](https://github.com/iotics-live/iotics-Controller/blob/master/iotics/Images/screenshot 001.png?raw=true)
 
 ## Default Username & Password for the Controller interface (beta)
 - Username: admin
