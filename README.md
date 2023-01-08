@@ -1,6 +1,6 @@
 ## About
 
-Setup and control your Home Assistant OS with the iotics intuitive user interface. iotics offers multiple instance support with advanced managment tools such as personalized dashboards, user share permissions, device statistics, event notifications & more. iotics simplistic design allows you to introduce home automation to diffrent family while focusing heavily on user privacy.
+Setup and control your Home Assistant OS with the iotics intuitive user interface. iotics offers multiple instance support with advanced managment tools such as personalized dashboards, user share permissions, device statistics, event notifications & more. iotics simplistic design allows you to introduce home automation to diffrent the familymembers while maintaining user privacy.
 
 ![iotics dashboard](https://github.com/iotics-live/iotics-Controller/blob/master/iotics/Images/screenshot-003.png?raw=true)
 ![iotics user selection](https://github.com/iotics-live/iotics-Controller/blob/master/iotics/Images/screenshot-001.png?raw=true)
