@@ -2,8 +2,8 @@
 
 Setup and control your Home Assistant OS with the iotics intuitive user interface. iotics offers advanced managment tools for your home such as a personalized dashboards, user share permissions, device statistics, event notifications & more. iotics focuses heavily on user privacy & does not collect any personal data.
 
-![iotics dashboard](https://github.com/iotics-live/iotics-Controller/blob/master/iotics/Images/screenshot-001.png?raw=true)
-![iotics user selection](https://github.com/iotics-live/iotics-Controller/blob/master/iotics/Images/screenshot-003.png?raw=true)
+![iotics dashboard](https://github.com/iotics-live/iotics-Controller/blob/master/iotics/Images/screenshot-003.png?raw=true)
+![iotics user selection](https://github.com/iotics-live/iotics-Controller/blob/master/iotics/Images/screenshot-001.png?raw=true)
 
 ## Default admin interface credentials (beta)
 - Username: admin
