@@ -13,7 +13,7 @@ comparison to installing any other Home Assistant add-on.
 1. Click the Home Assistant My button below to open the add-on on your Home
    Assistant instance.
 
-   [![Open this add-on in your Home Assistant instance.][addon-badge]][addon]
+[![Open your Home Assistant instance and show the dashboard of a Supervisor add-on.](https://my.home-assistant.io/badges/supervisor_addon.svg)](https://my.home-assistant.io/redirect/supervisor_addon/?repository_url=https%3A%2F%2Fgithub.com%2Fiotics-live%2Fiotics-Controller&addon=iotics+Controller)
 
 1. Click the "Install" button to install the add-on.
 1. Start the "iotics Controller" add-on.
@@ -47,8 +47,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-badge]: https://my.home-assistant.io/badges/supervisor_addon.svg
-[addon]: https://my.home-assistant.io/redirect/supervisor_addon/?repository_url=https%3A%2F%2Fgithub.com%2Fiotics-live%2Fiotics-Controller&addon=iotics+Controller
 [issue]: https://github.com/hassio-addons/addon-plex/issues
 [reddit]: https://reddit.com/r/homeassistant
 
