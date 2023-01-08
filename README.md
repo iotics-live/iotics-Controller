@@ -1,6 +1,6 @@
 ## About
 
-Setup and control your Home Assistant OS with the iotics intuitive user interface. iotics simplistic design aims to introduce home automation to the home members while maintaining control & user privacy. 
+Setup and control your Home Assistant OS with the iotics intuitive user interface. iotics simplistic design aims to introduce home Assistant features to the home members while maintaining control & user privacy. 
 
 ## Features
 
