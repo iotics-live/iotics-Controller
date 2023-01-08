@@ -10,3 +10,4 @@ This add-on serves as a backend for the iotics mobile application. The webapp in
 - Username: admin
 - Password: password
 - Port: 4443
+
