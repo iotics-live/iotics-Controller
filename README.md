@@ -8,4 +8,5 @@ Setup and control your Home Assistant OS with the iotics intuitive user interfac
 - Username: admin
 - Password: password
 - Port: 4443
+
 Notice: This add-on serves as a backend for the iotics mobile & Tablet applications. The webapp in currently under development.
