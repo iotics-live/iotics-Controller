@@ -25,4 +25,5 @@ Notice: This add-on currently serves as a backend for the iotics mobile & tablet
 
 ## Support
 
-if you have a suggestion, why not let us know [here](https://github.com/iotics-live/iotics-Controller/pulls). You can also help us squash those pesky bugs by reporting your findings [here](https://github.com/iotics-live/iotics-Controller/issues). 
+- if you have a suggestion, why not let us know [here](https://github.com/iotics-live/iotics-Controller/pulls). 
+- if you want yo help us squash those pesky bugs by reporting your findings [here](https://github.com/iotics-live/iotics-Controller/issues). 
