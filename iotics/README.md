@@ -48,7 +48,7 @@ The setup of this repository is done by The iotics team
 
 MIT License
 
-Copyright (c) 2018-2022 Franck Nijhof
+Copyright (c) 2019-2023 The iotics Team
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
