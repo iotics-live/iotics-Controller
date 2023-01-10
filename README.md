@@ -22,3 +22,7 @@ Share & control your Home Assistant OS with iotics' intuitive user interface. io
 - Port: 4443
 
 Notice: This add-on currently serves as a backend for the iotics mobile & tablet applications. A webapp version is currently under development.
+
+## Support
+
+Help us squash those pesky bugs by reporting your findings [here](https://github.com/iotics-live/iotics-Controller/issues). 
