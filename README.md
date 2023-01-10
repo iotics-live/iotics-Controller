@@ -2,7 +2,6 @@
 
 Control and share your Home Assistant OS with iotics intuitive user interface. iotics aims to introduce Home Assistant to home members while maintaining control & user privacy.
 
-Introduce home assistant to your family with iotics. iotics aims to bring home assistant features The intuitive design is aims to bring 
 ## Features
 
 - Multiple instance support
