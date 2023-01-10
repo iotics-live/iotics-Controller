@@ -41,9 +41,5 @@ Notice: This add-on currently serves as a backend for the iotics mobile & tablet
 - if you want to help us squash those pesky bugs, feel free to report your findings [here](https://github.com/iotics-live/iotics-Controller/issues). 
 - Dockerhub images can be found [here](https://hub.docker.com/repository/docker/iotics/iotics-controller/general)
 
-## Author
-
-The setup of this repository is done by The iotics team
-
 [issue]: https://github.com/hassio-addons/addon-plex/issues
 [reddit]: https://reddit.com/r/homeassistant
