@@ -39,8 +39,9 @@ Notice: This add-on currently serves as a backend for the iotics mobile & tablet
 
 - if you have a suggestion, why not let us know [here](https://github.com/iotics-live/iotics-Controller/pulls). 
 - if you want to help us squash those pesky bugs, feel free to report your findings [here](https://github.com/iotics-live/iotics-Controller/issues). 
+- Dockerhub images can be found [here](https://hub.docker.com/repository/docker/iotics/iotics-controller/general)
 
-## Authors & contributors
+## Author
 
 The setup of this repository is done by The iotics team
 
