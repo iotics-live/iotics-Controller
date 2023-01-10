@@ -2,6 +2,10 @@
 
 Share & control your Home Assistant OS with iotics' intuitive user interface. iotics aims to introduce Home Assistant to home members while preserving user control and privacy.
 
+
+![iotics dashboard](https://github.com/iotics-live/iotics-Controller/blob/master/iotics/Images/screenshot-003.png?raw=true)
+![iotics user selection](https://github.com/iotics-live/iotics-Controller/blob/master/iotics/Images/screenshot-001.png?raw=true)
+
 ## Features
 
 - Multiple instance support
@@ -12,9 +16,6 @@ Share & control your Home Assistant OS with iotics' intuitive user interface. io
 - Event notifications
 - Local and private
 - Secure remote access
-
-![iotics dashboard](https://github.com/iotics-live/iotics-Controller/blob/master/iotics/Images/screenshot-003.png?raw=true)
-![iotics user selection](https://github.com/iotics-live/iotics-Controller/blob/master/iotics/Images/screenshot-001.png?raw=true)
 
 ## Installation
 
