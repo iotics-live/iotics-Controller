@@ -1,4 +1,4 @@
-## About
+## About iotics
 
 Control and share your Home Assistant OS with iotics intuitive user interface. iotics aims to introduce Home Assistant to home members while maintaining control & user privacy.
 
