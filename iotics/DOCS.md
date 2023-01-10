@@ -16,13 +16,6 @@ Share & control your Home Assistant OS with iotics' intuitive user interface. io
 ![iotics dashboard](https://github.com/iotics-live/iotics-Controller/blob/master/iotics/Images/screenshot-003.png?raw=true)
 ![iotics user selection](https://github.com/iotics-live/iotics-Controller/blob/master/iotics/Images/screenshot-001.png?raw=true)
 
-## Default admin interface credentials (beta)
-- Username: admin
-- Password: password
-- Port: 4443
-
-Notice: This add-on currently serves as a backend for the iotics mobile & tablet applications. A webapp version is currently under development.
-
 ## Installation
 
 The installation of this add-on is pretty straightforward and not different in
@@ -34,6 +27,12 @@ comparison to installing any other Home Assistant add-on.
 3. Start the "iotics Controller" add-on.
 4. Login to the iotics admin interface and complete the setup process.
 
+## Default admin interface credentials (beta)
+- Username: admin
+- Password: password
+- Port: 4443
+
+Notice: This add-on currently serves as a backend for the iotics mobile & tablet applications. A webapp version is currently under development.
 
 ## Support
 
