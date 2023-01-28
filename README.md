@@ -38,6 +38,6 @@ Notice: This add-on currently serves as a backend for the iotics mobile & tablet
 ## Support
 
 - If you would like to support our project, why not <a href="https://www.buymeacoffee.com/iotics" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-- if you have a suggestion, why not let us know [here](https://github.com/iotics-live/iotics-Controller/pulls). 
-- if you want to help us squash those pesky bugs, feel free to report your findings [here](https://github.com/iotics-live/iotics-Controller/issues). 
+- All suggestions are [here](https://github.com/iotics-live/iotics-Controller/pulls). 
+- wanna help us squash those pesky bugs? feel free to report your findings [here](https://github.com/iotics-live/iotics-Controller/issues). 
 - Dockerhub images can be found [here](https://hub.docker.com/repository/docker/iotics/iotics-controller/general)
