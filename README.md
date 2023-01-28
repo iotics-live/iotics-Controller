@@ -4,7 +4,6 @@ Share & control your Home Assistant OS with iotics' intuitive user interface. io
 
 
 ![iotics dashboard](https://github.com/iotics-live/iotics-Controller/blob/master/iotics/Images/screenshot-003.png?raw=true)
-![iotics user selection](https://github.com/iotics-live/iotics-Controller/blob/master/iotics/Images/screenshot-001.png?raw=true)
 
 ## Features
 
