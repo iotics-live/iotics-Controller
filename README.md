@@ -40,7 +40,6 @@ Notice: This add-on currently serves as a backend for the iotics mobile & tablet
 - if you have a suggestion, why not let us know [here](https://github.com/iotics-live/iotics-Controller/pulls). 
 - if you want to help us squash those pesky bugs, feel free to report your findings [here](https://github.com/iotics-live/iotics-Controller/issues). 
 - Dockerhub images can be found [here](https://hub.docker.com/repository/docker/iotics/iotics-controller/general)
-- If you would like to support our project, why not <a href="https://www.buymeacoffee.com/iotics" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
+- If you would like to support our project, why not <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="iotics" data-color="#5F7FFF" data-emoji=""  data-font="Cookie" data-text="Buy us a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 [issue]: https://github.com/hassio-addons/addon-plex/issues
 [reddit]: https://reddit.com/r/homeassistant
