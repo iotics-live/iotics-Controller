@@ -5,9 +5,42 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.11.0] - 2023-02-15
+### Changed
+- Using HTTP header for passing location (instead of ports)
 
+## [0.10.15] - 2023-01-15
+### Changed
+- Add assigned flag to add/edit card entity select
 
-## [0.10.7] - 2022-11-28
+## [0.10.14] - 2023-01-15
+### Changed
+- Enable device notifications by default
+- Allow access to notifications if user is disabled for Logs feature
+
+## [0.10.13] - 2023-01-15
+### Changed
+- Add user display order 
+
+## [0.10.12] - 2022-12-25
+### Changed
+- Update User permissions and add UI grouping for roles - Guest, Member, Admin, Custom
+
+## [0.10.11] - 2022-12-18
+### Changed
+- Update Edit Location page
+- Fix issue - automation tile is broken with long imported automation name
+
+## [0.10.10] - 2022-12-03
+### Changed
+- Display imported automation type on the tile
+
+## [0.10.9] - 2022-12-03
+### Changed
+- Fix issue - Muslim Prayer automations are triggered not in UTC time
+- Fix issue - Ignored properties in Notification Settings are reset during startup
+
+## [0.10.8] - 2022-11-28
 ### Changed
 - Adjust snapshot upload message in case snapshot with this name already exists
 - Fix issue - imported automations are shown as regular automations
