@@ -21,11 +21,11 @@ Share & control your Home Assistant OS with iotics' intuitive user interface. io
 The installation of this add-on is pretty straightforward and not different in
 comparison to installing any other Home Assistant add-on.
 
-1. Click the Home Assistant My button below to add the add-on on your Home
-   Assistant instance. [![Open your Home Assistant instance and show the dashboard of a Supervisor add-on.](https://my.home-assistant.io/badges/supervisor_addon.svg)](https://my.home-assistant.io/redirect/supervisor_addon/?repository_url=https%3A%2F%2Fgithub.com%2Fiotics-live%2Fiotics-Controller&addon=iotics+Controller)
-2. Click the "Install" button to install the add-on.
-3. Start the "iotics Controller" add-on.
-4. Login to the iotics admin interface and complete the setup process.
+1. Add the iotics repository by going Settings > Add-ons > Addon store > page menu > Add repository link "https://github.com/iotics-live/iotics-Controller"
+2. Select the iotics controller from the list of Add-ons
+3. Click the "Install" button to install the add-on.
+4. Start the "iotics Controller" add-on.
+5. Login to the iotics admin interface and complete the setup process.
 
 ## Default admin interface credentials (beta)
 - Username: admin
