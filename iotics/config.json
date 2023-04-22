@@ -21,7 +21,7 @@
     "4443/tcp": 4443
   },
   "ports_description": {
-    "4443/tcp": "iotics controller"
+    "4443/tcp": "Admin UI"
   },
   "host_network": "false"
 }
