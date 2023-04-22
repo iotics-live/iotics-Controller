@@ -30,7 +30,6 @@ comparison to installing any other Home Assistant add-on.
 ## Default admin interface credentials (beta)
 - Username: admin
 - Password: password
-- Port: 4443
 
 Notice: This add-on currently serves as a backend for the iotics mobile & tablet applications. A webapp version is currently under development.
 
