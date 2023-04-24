@@ -27,11 +27,11 @@ comparison to installing any other Home Assistant add-on.
 4. Start the "iotics Controller" add-on.
 5. Login to the iotics admin interface and complete the setup process.
 
+Notice: This add-on only works with Home Assistant Operating System (HAOS) and serves as a backend for the iotics mobile & tablet applications. A webapp version is currently under development.
+
 ## Default admin interface credentials (beta)
 - Username: admin
 - Password: password
-
-Notice: This add-on only works with Home Assistant Operating System (HAOS) and serves as a backend for the iotics mobile & tablet applications. A webapp version is currently under development.
 
 ## Support
 
