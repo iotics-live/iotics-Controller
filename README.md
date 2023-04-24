@@ -35,7 +35,6 @@ Notice: This add-on is in open beta and only works with the Home Assistant Opera
 
 ## Support
 
-<a href="https://www.buymeacoffee.com/iotics" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a> to help keep this project alive. Your continued support & enthusiasm is greatly appreciated! 
 - All suggestions are welcome [here](https://github.com/iotics-live/iotics-Controller/pulls). 
 - Wanna help us squash those pesky bugs? feel free to report your findings [here](https://github.com/iotics-live/iotics-Controller/issues). 
 - Prefer to grab the docker image? You can find it [here](https://hub.docker.com/repository/docker/iotics/iotics-controller/general)
