@@ -31,7 +31,7 @@ comparison to installing any other Home Assistant add-on.
 - Username: admin
 - Password: password
 
-Notice: This add-on currently serves as a backend for the iotics mobile & tablet applications. A webapp version is currently under development.
+Notice: This add-on only works with Home Assistant Operating System (HAOS) and serves as a backend for the iotics mobile & tablet applications. A webapp version is currently under development.
 
 ## Support
 
