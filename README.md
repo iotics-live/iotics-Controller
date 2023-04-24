@@ -23,7 +23,7 @@ comparison to installing any other Home Assistant add-on.
 
 1. Add the iotics controller repository to Home Assistant by going to Settings > Add-ons > Addon store > page menu > Add repository link "https://github.com/iotics-live/iotics-Controller"
 2. Select the iotics controller from the list of Add-ons
-3. Click on the "Install" button to install the add-on.
+3. Click on the "Install" button to install the add-on, installation speed can vary depending on network speed. 
 4. Start the "iotics Controller" add-on.
 5. Login to the iotics admin interface and complete the setup process.
 
