@@ -5,6 +5,84 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## TODO
+- Make only one HA configuration possible
+
+## TODO
+- Make only one HA configuration possible
+
+## [0.11.17] - 2023-04-25
+### Changed
+- Fix issue - return BadRequest response for incorrect passcode for detect location request
+
+## [0.11.16] - 2023-04-16
+### Changed
+- Fix issue - update user profiles API is anonymous but there is a check for user role
+
+## [0.11.15] - 2023-04-15
+### Changed
+- Add more details in user automations response
+
+## [0.11.14] - 2023-04-09
+### Changed
+- Update to .NET 7 and update libraries
+
+## [0.11.13] - 2023-04-09
+### Changed
+- Remove soft delete for users
+
+## [0.11.12] - 2023-04-02
+### Changed
+- Fix issues - disable change single Admin roles in location
+
+## [0.11.11] - 2023-04-02
+### Changed
+- Fix issues - Admin user modifications for location
+
+## [0.11.10] - 2023-04-01
+### Changed
+- Make passcode not mandatory for edit location
+- Fix issue - unable to delete Admin if there are more Admin users in location
+- Fix issue - unable to delete user
+
+## [0.11.9] - 2023-03-29
+### Changed
+- Add ability to set avatar during user creation
+
+## [0.11.8] - 2023-03-23
+### Changed
+- Allow anonymous access for securing the location
+
+## [0.11.7] - 2023-03-19
+### Changed
+- Fix breaking changes due to HA 2023.3.3 update (using websockets for backups, host and supervisor info)
+
+## [0.11.6] - 2023-03-16
+### Changed
+- Return error if location name is duplicated
+
+## [0.11.5] - 2023-03-15
+### Changed
+- Return error if location passcode is duplicated
+
+## [0.11.4] - 2023-03-12
+### Changed
+- Add changes for location installation
+
+## [0.11.3] - 2023-02-26
+### Changed
+- Add administrators count to location overview API
+
+## [0.11.2] - 2023-02-25
+### Changed
+- Add API to detect location by passcode
+
+## [0.11.1] - 2023-02-19
+### Changed
+- Make first user created in location to be Admin
+- Prevent deleting single Admin in location
+- Add icon field to automations
+
 ## [0.11.0] - 2023-02-15
 ### Changed
 - Using HTTP header for passing location (instead of ports)
