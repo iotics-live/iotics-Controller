@@ -11,6 +11,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## TODO
 - Make only one HA configuration possible
 
+## [0.11.21] - 2023-05-21
+### Changed
+- Enable anonymous access to configure Home Assistant
+
+## [0.11.20] - 2023-05-14
+### Changed
+- Enable Watchdog service for iotics add-on as part of API call to configure Home Assistant
+
+## [0.11.19] - 2023-05-07
+### Changed
+- Extend API to update Supervisor, Home Assistant, OS, iotics controller
+
+## [0.11.18] - 2023-05-01
+### Changed
+- Extend API to return details about Supervisor, Home Assistant, OS, iotics controller
+
 ## [0.11.17] - 2023-04-25
 ### Changed
 - Fix issue - return BadRequest response for incorrect passcode for detect location request
