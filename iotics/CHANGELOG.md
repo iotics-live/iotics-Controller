@@ -11,6 +11,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## TODO
 - Make only one HA configuration possible
 
+## [0.11.23] - 2023-06-04
+### Changed
+- Fix HA OS update API
+
+## [0.11.22] - 2023-06-04
+### Changed
+- Add room colors
+- Add assigned users to room response
+
 ## [0.11.21] - 2023-05-21
 ### Changed
 - Enable anonymous access to configure Home Assistant
