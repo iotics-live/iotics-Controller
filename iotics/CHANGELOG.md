@@ -11,6 +11,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## TODO
 - Make only one HA configuration possible
 
+## [0.11.25] - 2023-06-17
+### Changed
+- Return iotics addon in HA statistics response
+
+## [0.11.24] - 2023-06-11
+### Changed
+- Fix HA Supurvisor update API
+- Extend assigned rooms and color to get rooms API
+
 ## [0.11.23] - 2023-06-04
 ### Changed
 - Fix HA OS update API
