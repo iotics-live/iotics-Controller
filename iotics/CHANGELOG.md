@@ -11,6 +11,51 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## TODO
 - Make only one HA configuration possible
 
+## [0.11.36] - 2023-08-26
+### Changed
+- Add API to fetch Home Assistant device details
+- Update Add Card with Home Assistant device details
+
+## [0.11.35] - 2023-08-20
+### Changed
+- Updating Nuget packages
+
+## [0.11.34] - 2023-08-06
+### Changed
+- Fix SignalR connection
+
+## [0.11.33] - 2023-08-06
+### Changed
+- Fix location delete
+
+## [0.11.32] - 2023-08-03
+### Changed
+- Fix location delete
+
+## [0.11.31] - 2023-08-02
+### Changed
+- Fix location delete
+
+## [0.11.30] - 2023-07-29
+### Changed
+- Update location delete message
+
+## [0.11.29] - 2023-07-22
+### Changed
+- Fix issue - location cannot be deleted
+
+## [0.11.28] - 2023-07-22
+### Changed
+- Add themes API
+
+## [0.11.27] - 2023-07-09
+### Changed
+- Fix disconnected entity for card management
+
+## [0.11.26] - 2023-07-02
+### Changed
+- Add user roles to rooms API response
+
 ## [0.11.25] - 2023-06-17
 ### Changed
 - Return iotics addon in HA statistics response
