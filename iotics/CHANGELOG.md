@@ -47,7 +47,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Fix issue - location is deleted by error is returned
 
-
 ## [0.11.36] - 2023-08-26
 ### Changed
 - Add API to fetch Home Assistant device details
