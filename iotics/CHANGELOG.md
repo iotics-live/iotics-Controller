@@ -11,6 +11,43 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## TODO
 - Make only one HA configuration possible
 
+## [0.11.45] - 2023-10-22
+### Changed
+- Fix issue - admin can not login
+
+## [0.11.44] - 2023-10-21
+### Changed
+- Fix issue - make use password string instead of number (various changes)
+
+## [0.11.43] - 2023-10-21
+### Changed
+- Fix issue - make use password string instead of number (various changes)
+
+## [0.11.42] - 2023-10-21
+### Changed
+- Fix issue - make use password string instead of number
+
+## [0.11.41] - 2023-09-17
+### Changed
+- Fix issue - rework return statistics only for rooms user has access to
+
+## [0.11.40] - 2023-09-16
+### Changed
+- Fix issue - return statistics only for rooms user has access to
+
+## [0.11.39] - 2023-09-03
+### Changed
+- Fix issue - prevent deleting the only available location
+
+## [0.11.38] - 2023-09-02
+### Changed
+- Stability fixes
+
+## [0.11.37] - 2023-09-02
+### Changed
+- Fix issue - location is deleted by error is returned
+
+
 ## [0.11.36] - 2023-08-26
 ### Changed
 - Add API to fetch Home Assistant device details
