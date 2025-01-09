@@ -36,9 +36,10 @@ Setting up the Iotics Controller Add-on is quick and easy. Follow these steps:
 3. **Start the Iotics Controller Add-on**  
    - Once installation is complete, start the add-on from the Home Assistant interface.  
 
-4. **Access the Iotics Admin Interface**  
-   - Open the WebUI by clicking [https://your-home-assistant-url:4443](https://your-home-assistant-url:4443).  
-     Replace `your-home-assistant-url` with your local Home Assistant address, e.g., `http://localhost` or `http://192.168.x.x`.  
+4. **Download the Iotics App**  
+   - To access the Iotics interface on your mobile or tablet, download the **Iotics** app for your platform:  
+     - **[Download for Android (Huawei)](https://play.google.com/store/apps/details?id=com.iotics.app)**  
+     - **[Download for Apple (iOS)](https://apps.apple.com/us/app/iotics/id1234567890)**  
 
 ### Default Admin Interface Credentials  
 Log in to the admin interface to complete the initial setup:  
@@ -62,4 +63,4 @@ We’re here to help! If you have any feedback, ideas, or issues, please reach o
 - **Bug Reports**: Encountered a problem? [Report bugs here](https://github.com/iotics-live/iotics-Controller/issues/new?assignees=&labels=bug&template=bug_report.md&title=).  
 - **Docker Image**: Prefer Docker? [Download the Iotics Controller image from Docker Hub](https://hub.docker.com/r/iotics/iotics-controller).  
 
-Stay connected and help us improve **Iotics**!  
+Stay connected and help us improve **Iotics**!
