@@ -2,7 +2,8 @@
 ![Iotics Dashboard](https://github.com/iotics-live/iotics-Controller/blob/master/iotics/Images/screenshot-003.png?raw=true)
 
 ## About  
-The Iotics Controller Add-on makes it simple to share and manage your Home Assistant OS through an intuitive user interface. Built to introduce Home Assistant to all household members, Iotics prioritizes user control and privacy, delivering a seamless and secure smart home experience.
+
+   The Iotics Controller Add-on makes it simple to share and manage your Home Assistant OS through an intuitive user interface. Built to introduce Home Assistant to all household members, Iotics prioritizes user control and privacy, delivering a seamless and secure smart home experience.
 
 ## Features  
 - **Multiple Instance Support**: Manage multiple Home Assistant instances from a single platform.  
@@ -15,7 +16,8 @@ The Iotics Controller Add-on makes it simple to share and manage your Home Assis
 - **Secure Remote Access**: Access your smart home remotely with peace of mind.  
 
 ## Installation  
-Setting up the Iotics Controller Add-on is quick and easy. Follow these steps:  
+
+   Setting up the Iotics Controller Add-on is quick and easy. Follow these steps:  
 
 1. **Add the Iotics Repository**  
    a. Navigate to **Settings > Add-ons > Add-on Store**, click the menu (three dots), and select **Add repository**.  
@@ -32,6 +34,7 @@ Setting up the Iotics Controller Add-on is quick and easy. Follow these steps:
    Access the WebUI locally by clicking [https://your-home-assistant-url:4443](https://your-home-assistant-url:4443) (replace `your-home-assistant-url` with your Home Assistant's local address, e.g., `http://localhost` or `http://192.168.x.x`).  
 
 ### Default Admin Interface Credentials:  
+
    Log in to the admin interface to complete the initial setup process.  
 - **Username**: `admin`  
 - **Password**: `password`  
