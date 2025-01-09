@@ -39,9 +39,9 @@ Setting up the Iotics Controller Add-on is quick and easy. Follow these steps:
 4. **Download the Iotics Companion App**  
    - To control your Iotics Add-on from your mobile or tablet, download the Iotics Companion App:
 
-     - **[Download on the App Store](https://apps.apple.com/us/app/iotics/id1234567890)**  
-     - **[Get it on Google Play](https://play.google.com/store/apps/details?id=com.iotics.app)**
-     - **[Explore it on AppGallery](https://play.google.com/store/apps/details?id=com.iotics.app)**  
+     - **[Download on the App Store](https://apps.apple.com/us/app/iotics-for-home-assistant/id1534768325)**
+     - **[Get it on Google Play](https://play.google.com/store/apps/details?id=live.iotics.iotics&pli=1))** 
+     - **[Explore it on AppGallery](https://appgallery.huawei.com/app/C106708521)**
 
 ---
 
