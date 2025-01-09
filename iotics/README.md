@@ -30,6 +30,8 @@ Setting up the Iotics Controller Add-on is quick and easy. Follow these steps:
 4. **Set Up the Iotics Admin Interface**  
    Log in to the admin interface to complete the initial setup process.  
 
+   Access the WebUI locally by clicking [https://your-home-assistant-url:4443](https://your-home-assistant-url:4443) (replace `your-home-assistant-url` with your Home Assistant's local address, e.g., `http://localhost` or `http://192.168.x.x`).  
+
 ### Default Admin Interface Credentials:  
 - **Username**: `admin`  
 - **Password**: `password`  
@@ -47,4 +49,3 @@ We’re here to assist you and value your feedback!
 - **Docker Image**: Prefer Docker? Get the Iotics Controller image from [Docker Hub](#).  
 
 Stay connected and help us improve Iotics!
-
