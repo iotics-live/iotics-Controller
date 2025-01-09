@@ -46,7 +46,7 @@ Setting up the Iotics Controller Add-on is quick and easy. Follow these steps:
 ---
 
 ### Beta Notice  
-The Iotics Controller Add-on is currently in **open beta** and supports the Home Assistant Operating System (HAOS) exclusively. It serves as the backend for the Iotics mobile and tablet applications. A web app version is under development.  
+The Iotics Controller Add-on is currently in **open beta** and supports the Home Assistant Operating System (HAOS) exclusively. It serves as the backend for the Iotics mobile and tablet applications. 
 
 ---
 
