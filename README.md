@@ -60,6 +60,6 @@ We’re here to help! If you have any feedback, ideas, or issues, please reach o
 
 - **Feature Suggestions**: Got an idea to improve Iotics? [Submit your suggestions here](https://github.com/iotics-live/iotics-Controller/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=).  
 - **Bug Reports**: Encountered a problem? [Report bugs here](https://github.com/iotics-live/iotics-Controller/issues/new?assignees=&labels=bug&template=bug_report.md&title=).  
-- **Docker Image**: Prefer Docker? [Download the Iotics Controller image from Docker Hub](https://hub.docker.com/r/ioticslive/iotics-controller).  
+- **Docker Image**: Prefer Docker? [Download the Iotics Controller image from Docker Hub](https://hub.docker.com/r/iotics/iotics-controller).  
 
 Stay connected and help us improve **Iotics**!  
