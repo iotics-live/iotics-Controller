@@ -38,15 +38,9 @@ Setting up the Iotics Controller Add-on is quick and easy. Follow these steps:
 
 4. **Download the Iotics App**  
    - To access the Iotics interface on your mobile or tablet, download the **Iotics** app for your platform:  
-     - **[Download for Android (Huawei)](https://play.google.com/store/apps/details?id=com.iotics.app)**  
-     - **[Download for Apple (iOS)](https://apps.apple.com/us/app/iotics/id1234567890)**  
-
-### Default Admin Interface Credentials  
-Log in to the admin interface to complete the initial setup:  
-- **Username**: `admin`  
-- **Password**: `password`  
-
-> **Important**: For security, update the default credentials during the initial setup.  
+     - **[Download on the App Store](https://apps.apple.com/us/app/iotics/id1234567890)**  
+     - **[Get it on Google Play](https://play.google.com/store/apps/details?id=com.iotics.app)**
+     - **[Explore it on AppGallery](https://play.google.com/store/apps/details?id=com.iotics.app)**  
 
 ---
 
