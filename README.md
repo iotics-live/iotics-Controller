@@ -56,10 +56,10 @@ The Iotics Controller Add-on is currently in **open beta** and supports the Home
 
 ## Support  
 
-We’re here to assist you! Share your feedback or report any issues:  
+We’re here to help! If you have any feedback, ideas, or issues, please reach out:  
 
-- **Suggestions**: Have ideas or feature requests? [Submit them here](#).  
-- **Report Issues**: Encountered a problem? [Report it here](#).  
-- **Docker Image**: Prefer Docker? Download the Iotics Controller image from [Docker Hub](#).  
+- **Feature Suggestions**: Got an idea to improve Iotics? [Submit your suggestions here](https://github.com/iotics-live/iotics-Controller/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=).  
+- **Bug Reports**: Encountered a problem? [Report bugs here](https://github.com/iotics-live/iotics-Controller/issues/new?assignees=&labels=bug&template=bug_report.md&title=).  
+- **Docker Image**: Prefer Docker? [Download the Iotics Controller image from Docker Hub](https://hub.docker.com/r/ioticslive/iotics-controller).  
 
 Stay connected and help us improve **Iotics**!  
