@@ -1,4 +1,4 @@
-Iotics Controller Add-on
+##Iotics Controller Add-on
 ## About
 Easily share and control your Home Assistant OS through Iotics' intuitive user interface. Designed to introduce Home Assistant to all household members, Iotics maintains a focus on user control and privacy, ensuring a smooth and secure smart home experience.
 
