@@ -1,8 +1,7 @@
 # Iotics Controller Add-on
+![iotics dashboard](https://github.com/iotics-live/iotics-Controller/blob/master/iotics/Images/screenshot-003.png?raw=true)
 ## About
 Easily share and control your Home Assistant OS through Iotics' intuitive user interface. Designed to introduce Home Assistant to all household members, Iotics maintains a focus on user control and privacy, ensuring a smooth and secure smart home experience.
-
-![iotics dashboard](https://github.com/iotics-live/iotics-Controller/blob/master/iotics/Images/screenshot-003.png?raw=true)
 
 ## Features
 ●	Multiple Instance Support: Manage multiple Home Assistant instances from one platform.
