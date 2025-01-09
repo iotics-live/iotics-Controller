@@ -2,49 +2,53 @@
 ![Iotics Dashboard](https://github.com/iotics-live/iotics-Controller/blob/master/iotics/Images/screenshot-003.png?raw=true)  
 
 ## About  
-The **Iotics Controller Add-on** simplifies sharing and managing your Home Assistant OS with an intuitive user interface. Designed to make Home Assistant accessible to all household members, Iotics focuses on user control and privacy, delivering a seamless and secure smart home experience.  
+The **Iotics Controller Add-on** simplifies sharing and managing your Home Assistant OS with an intuitive user interface. Designed to make Home Assistant accessible to all household members, Iotics emphasizes user control and privacy to deliver a seamless, secure smart home experience.  
 
 ---
 
 ## Features  
 - **Multiple Instance Support**: Manage multiple Home Assistant instances from a single platform.  
-- **User Permissions**: Set access levels for each user to ensure privacy and security.  
-- **Personalized Dashboards**: Create customized dashboards tailored to individual users' needs.  
-- **Customizable Interface**: Adjust the UI to match your style and preferences.  
-- **History & Statistics**: View device usage and analyze historical trends.  
-- **Event Notifications**: Stay informed with alerts and updates on key events.  
-- **Local and Private**: Keeps your data secure by operating locally.  
-- **Secure Remote Access**: Enjoy peace of mind while accessing your smart home remotely.  
+- **User Permissions**: Assign and customize access levels to ensure privacy and security for all users.  
+- **Personalized Dashboards**: Build tailored dashboards for individual users' needs.  
+- **Customizable Interface**: Fine-tune the UI to match your preferences and style.  
+- **History & Statistics**: Monitor device usage and analyze historical trends for better insights.  
+- **Event Notifications**: Stay up-to-date with real-time alerts and updates on key events.  
+- **Local and Private**: Operates entirely locally, keeping your data secure and private.  
+- **Secure Remote Access**: Access your smart home remotely with confidence and peace of mind.  
 
 ---
 
 ## Installation  
 
-Setting up the Iotics Controller Add-on is quick and straightforward:  
+Setting up the Iotics Controller Add-on is quick and easy. Follow these steps:  
 
 1. **Add the Iotics Repository**  
-   - Go to **Settings > Add-ons > Add-on Store**, click the menu (three dots), and select **Add repository**.  
-   - Enter the repository URL: `https://github.com/iotics-live/iotics-Controller`.  
+   - Click this link to automatically add the repository:  
+     [Add Iotics Repository](https://my.home-assistant.io/redirect/supervisor_addon_repository/?repository_url=https://github.com/iotics-live/iotics-Controller)  
+   - Alternatively, you can add it manually:  
+     - Open **Settings > Add-ons > Add-on Store**, click the menu (three dots), and select **Add repository**.  
+     - Enter the repository URL:  
+       ```text
+       https://github.com/iotics-live/iotics-Controller
+       ```  
 
 2. **Install the Iotics Controller**  
-   - Find the Iotics Controller in the list of available add-ons and click on it.  
-   - Press **Install** to start the installation process (duration depends on your network speed).  
+   - Locate the Iotics Controller in the list of available add-ons and click on it.  
+   - Click **Install** to start the installation process. (Installation time may vary based on network speed.)  
 
 3. **Start the Iotics Controller Add-on**  
-   - Once installed, start the add-on from the Home Assistant interface.  
+   - Once installation is complete, start the add-on from the Home Assistant interface.  
 
 4. **Access the Iotics Admin Interface**  
    - Open the WebUI by clicking [https://your-home-assistant-url:4443](https://your-home-assistant-url:4443).  
      Replace `your-home-assistant-url` with your local Home Assistant address, e.g., `http://localhost` or `http://192.168.x.x`.  
-
----
 
 ### Default Admin Interface Credentials  
 Log in to the admin interface to complete the initial setup:  
 - **Username**: `admin`  
 - **Password**: `password`  
 
-> **Important**: For security, please change the default credentials during the initial setup.  
+> **Important**: For security, update the default credentials during the initial setup.  
 
 ---
 
@@ -55,10 +59,10 @@ The Iotics Controller Add-on is currently in **open beta** and supports the Home
 
 ## Support  
 
-We’re here to help! Feel free to provide feedback or report issues:  
+We’re here to assist you! Share your feedback or report any issues:  
 
-- **Suggestions**: Have ideas or feature requests? [Share them here](#).  
-- **Report Issues**: Found a bug? [Report it here](#).  
+- **Suggestions**: Have ideas or feature requests? [Submit them here](#).  
+- **Report Issues**: Encountered a problem? [Report it here](#).  
 - **Docker Image**: Prefer Docker? Download the Iotics Controller image from [Docker Hub](#).  
 
 Stay connected and help us improve **Iotics**!  
