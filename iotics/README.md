@@ -22,10 +22,7 @@ The **Iotics Controller Add-on** simplifies sharing and managing your Home Assis
 
 Setting up the Iotics Controller Add-on is quick and easy. Follow these steps:  
 
-1. **Add the Iotics Repository**  
-   - Click this link to automatically add the repository:  
-     [Add Iotics Repository](https://my.home-assistant.io/redirect/supervisor_addon_repository/?repository_url=https://github.com/iotics-live/iotics-Controller)  
-   - Alternatively, you can add it manually:  
+1. **Add the Iotics Repository**   
      - Open **Settings > Add-ons > Add-on Store**, click the menu (three dots), and select **Add repository**.  
      - Enter the repository URL:  
        ```text
