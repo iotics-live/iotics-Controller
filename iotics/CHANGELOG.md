@@ -6,10 +6,397 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## TODO
-- Make only one HA configuration possible
 
-## TODO
-- Make only one HA configuration possible
+## [0.12.74] - 2025-01-28
+### Changed
+- Fix issue - allow all authenticated users to access favourite automations API
+
+## [0.12.73] - 2025-01-27
+### Changed
+- Fix issue - allow all authenticated users to access automations API
+
+## [0.12.72] - 2025-01-26
+### Changed
+- Add automations sharing
+- Fix issue - delete database on iotics uninstall
+
+## [0.12.71] - 2025-01-19
+### Changed
+- Fix issue - automatic group management upon entities updates (part 3)
+
+## [0.12.70] - 2025-01-19
+### Changed
+- Fix issue - automatic group management upon entities updates (part 2)
+
+## [0.12.69] - 2025-01-19
+### Changed
+- Fix issue - automatic group management upon entities updates
+
+## [0.12.68] - 2025-01-09
+### Changed
+- Automatically add a group to room once adding a new card (if applicable)
+
+## [0.12.67] - 2025-01-03
+### Changed
+- Automatically reload add-ons during API `/statistics/home_assistant_core` call
+
+## [0.12.66] - 2025-01-03
+### Changed
+- Update API `/pages/{roomId}` to filter cards that belong to groups
+
+## [0.12.65] - 2025-01-01
+### Changed
+- Add email removal confirmation
+
+## [0.12.64] - 2025-01-01
+### Changed
+- Add API to uninstall iotics add-on
+
+## [0.12.63] - 2024-12-29
+### Changed
+- Update error messages for reset passcodes
+
+## [0.12.62] - 2024-12-29
+### Changed
+- Allow non-admins to call `/appLogs` API
+
+## [0.12.61] - 2024-12-27
+### Changed
+- Add more logs for `/users/location_passwords_reminder` API
+
+## [0.12.60] - 2024-12-26
+### Changed
+- Make location not required for `/users/location_passwords_reminder` API
+
+## [0.12.59] - 2024-12-24
+### Changed
+- Fix issue - email links contains incorrect port
+- Fix issue - null reference exception in `/automations/users`
+
+## [0.12.58] - 2024-12-23
+### Changed
+- Fix issue - email links missing port
+
+## [0.12.57] - 2024-12-23
+### Changed
+- Fix issue - wrong email templates paths
+
+## [0.12.56] - 2024-12-22
+### Changed
+- Fix issue - update operation (Core, Supervisor, OS, add-on) return HTTP Status code 400 
+
+## [0.12.55] - 2024-12-21
+### Changed
+- Update images API
+
+## [0.12.54] - 2024-12-21
+### Changed
+- Add location admins API for smooth transition between locations for Global Admin role
+
+## [0.12.53] - 2024-12-21
+### Changed
+- Minor changes to user management
+
+## [0.12.52] - 2024-12-18
+### Changed
+- Configure `iotics.live` domain for email notifications
+
+## [0.12.51] - 2024-12-16
+### Changed
+- Revert allow admin user to skip location passcode for `GET /user_list`
+
+## [0.12.50] - 2024-12-14
+### Changed
+- Allow admin user to skip location passcode for `GET /user_list`
+
+## [0.12.49] - 2024-12-14
+### Changed
+- Add images API
+
+## [0.12.48] - 2024-12-14
+### Changed
+- Re-work reset password functionality
+
+## [0.12.47] - 2024-12-14
+### Changed
+- Change location passwords reminder notification
+
+## [0.12.46] - 2024-12-11
+### Changed
+- Change reset password page title
+
+## [0.12.45] - 2024-12-09
+### Changed
+- Add password reset functionality
+
+## [0.12.44] - 2024-12-08
+### Changed
+- Add email verification functionality
+
+## [0.12.43] - 2024-12-08
+### Changed
+- Fix issue - update avatars for location admin accounts
+
+## [0.12.42] - 2024-12-07
+### Changed
+- Fix issue - location admin can't login
+
+## [0.12.41] - 2024-12-07
+### Changed
+- Disable Admin account for controller UI
+- Syncronize user names and passwords for location admin accounts
+
+## [0.12.40] - 2024-12-07
+### Changed
+- Add groups information to card response
+
+## [0.12.39] - 2024-12-01
+### Changed
+- Update NLog library
+- Update FirebaseAdmin library
+- Fix issue - push notifications are not delivered
+
+## [0.12.38] - 2024-11-24
+### Changed
+- Update call service messages
+
+## [0.12.37] - 2024-11-22
+### Changed
+- Fix issue - incorrect theme messages
+
+## [0.12.36] - 2024-11-19
+### Changed
+- Fix issue - login doesn't work
+- Fix issue - `GET /automations/users` performance Improvements
+
+## [0.12.35] - 2024-11-18
+### Changed
+- Fix issue - `GET /automations/users` responds with 500 error
+
+## [0.12.34] - 2024-11-16
+### Changed
+- Add full automation details to `GET /automations/users` API
+- Fix issue - respect excluded to notify properties
+- Fix issue - do not throw on create snapshot
+- Fix issues - import automations page is empty
+- Fix issue - incorrect assignment of groups to rooms
+
+## [0.12.33] - 2024-11-16
+### Changed
+- Technical commit (restructure notifications)
+
+## [0.12.32] - 2024-11-03
+### Changed
+- Update logs (cards, logs, user notifications)
+
+## [0.12.31] - 2024-11-03
+### Changed
+- Update logs (groups)
+
+## [0.12.30] - 2024-11-03
+### Changed
+- Update logs (part 1)
+
+## [0.12.29] - 2024-10-26
+### Changed
+- Add additional fields to logs response
+- Fix HA automation response breaking change
+
+## [0.12.28] - 2024-10-06
+### Changed
+- Initialize websocket connection for a newly added location
+
+## [0.12.27] - 2024-09-28
+### Changed
+- Automatically add connection to a newly added location
+
+## [0.12.26] - 2024-09-08
+### Changed
+- Fix add-on installation script (issue with database clean-up on restart)
+
+## [0.12.25] - 2024-09-07
+### Changed
+- Add automatic group management in rooms
+
+## [0.12.24] - 2024-08-17
+### Changed
+- Create database back before any server action (restart, update, etc.)
+- Change log level from Warn to Info
+
+## [0.12.23] - 2024-08-10
+### Changed
+- Preserve consistency of cards' name, icon and power consumption entityId by entityId
+
+## [0.12.22] - 2024-07-28
+### Changed
+- Update logging configuration
+
+## [0.12.21] - 2024-07-21
+### Changed
+- Enable device uptime job
+
+## [0.12.20] - 2024-07-20
+### Changed
+- Add API to restart Iotics add-on
+- Delete database back folder after restore is done
+- Add configuration to enable DeviceUptimeJob (disable it to check RAM usage)
+- Add configuration to enable HomeAssistantAutomationCurrentStateJob (disable it to check RAM usage)
+- Log messages as errors in HomeAssistantAutomationService
+
+## [0.12.19] - 2024-07-14
+### Changed
+- Disable device uptime job to check RAM issue
+
+## [0.12.18] - 2024-07-13
+### Changed
+- Add API to get Iotics CPU and RAM consumption
+
+## [0.12.17] - 2024-07-13
+### Changed
+- Add feature flag to disable subscription to Home Assistant events
+
+## [0.12.16] - 2024-06-13
+### Changed
+- Try to optimize memory usage WsClient
+
+## [0.12.15] - 2024-06-08
+### Changed
+- Replace ConcurrentDisctionary with MemoryCache in EntityStateChangeStorage
+- Adjust some log levels
+- Minor syntax changes
+
+## [0.12.14] - 2024-05-19
+### Changed
+- Set log level for "System" events to Warn
+
+## [0.12.13] - 2024-05-19
+### Changed
+- Set size for duplicate notifications check from 10k to 1k
+- Set log level for "Microsoft" events to Warn
+
+## [0.12.12] - 2024-05-19
+### Changed
+- Update duplicate notifications check (attempt to fix high RAM usage) 
+- Use log level Info
+
+## [0.12.11] - 2024-05-05
+### Changed
+- Disable device in case of many failed notifications
+
+## [0.12.10] - 2024-05-04
+### Changed
+- Add additional logging during automation creation
+- Remove validation of deletion for rooms, pages, cards and groups
+
+## [0.12.9] - 2024-04-21
+### Changed
+- Fix issue - allow import multiple entities for the same device
+
+## [0.12.8] - 2024-04-20
+### Changed
+- Fix issue - try to fix issue when updating location name
+- Fix issue - update location name in the notifications
+
+## [0.12.7] - 2024-04-14
+### Changed
+- Fix issue - add Home Assistant EntityId to automation responses
+
+## [0.12.6] - 2024-04-14
+### Changed
+- Fix issue - failure to create new theme
+
+## [0.12.5] - 2024-04-13
+### Changed
+- Fix issue - restore database from JSON files
+
+## [0.12.4] - 2024-04-09
+### Changed
+- Another attempt to fix installation issues
+
+## [0.12.3] - 2024-03-29
+### Changed
+- Fix for run.sh following .NET 8 update
+
+## [0.12.2] - 2024-03-17
+### Changed
+- Add HomeAssistantAreaId to Rooms response
+- Update Nuget packages
+
+## [0.12.1] - 2024-03-03
+### Changed
+- Switch to .NET 8 and update all Nuget packages
+
+## [0.11.60] - 2024-02-24
+### Changed
+- Use custom device name on Import page if possible
+- Fix issue - avoid HA restart on login
+
+## [0.11.59] - 2024-02-04
+### Changed
+- Reload Home Assistant configurations instead of server restart
+
+## [0.11.58] - 2024-01-28
+### Changed
+- Remove unused code for Mulsim Prayer automations
+
+## [0.11.57] - 2024-01-28
+### Changed
+- Change navigation link to Edit Room dialog on Import Rooms page
+- Allow Edit Device gialog for not imported devices
+- Fix issue - duplicate Admin
+- Fix issue - Home Assistant power sensor is not showing
+
+## [0.11.56] - 2024-01-21
+### Changed
+- Add Home Assistant Id column to Import Rooms UI
+
+## [0.11.55] - 2024-01-21
+### Changed
+- Remove option to import automations from Add Automation UI
+
+## [0.11.54] - 2024-01-20
+### Changed
+- Remove Muslim Prayer Athan, Hourly Chimes and Sound Reminders automations
+
+## [0.11.53] - 2023-12-30
+### Changed
+- Enable device management in Import Rooms & Devices page
+
+## [0.11.52] - 2023-12-29
+### Changed
+- Fix issue - Incorrect handling of default room category in edit mode
+- Fix issue - Swagger UI not working
+- Cleanup of previous version of HA websocket implementation
+
+## [0.11.51] - 2023-12-28
+### Changed
+- Fix issue - Laundry room category is not detected during the import
+- Fix issue - Room is not assigned to location admin by default
+- Improve room category detection for import
+
+## [0.11.50] - 2023-12-27
+### Changed
+- Fix issue - login to HA with username/password stopped working
+- Improve connect to HA websocket connection handling
+
+## [0.11.49] - 2023-12-26
+### Changed
+- Fix issue with websocket handling with no HA configured
+
+## [0.11.48] - 2023-12-26
+### Changed
+- Fix issue with websocket handling with no HA configured
+
+## [0.11.47] - 2023-12-26
+### Changed
+- Fix issue with missing column in Room
+- Fix issue with HA Supervisor info deserialization
+- Improve category and device icon detection when importing rooms
+
+## [0.11.46] - 2023-12-25
+### Changed
+- Add import from Home Assistant (Rooms & Devices, Users, Automations)
+- Re-work websocket handling
 
 ## [0.11.45] - 2023-10-22
 ### Changed
