@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.75] - 2025-02-01
+### Changed
+- Add uninstall script
+- Fix issue - allow shared automation to be added to favourites
+- Fix issue - delete database during add-on uninstall
+
 ## [0.12.74] - 2025-01-28
 ### Changed
 - Fix issue - allow all authenticated users to access favourite automations API
