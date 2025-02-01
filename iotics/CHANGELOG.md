@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.76] - 2025-02-01
+### Changed
+- Fix issue - Null Reference Exception in favourite automations API
+
 ## [0.12.75] - 2025-02-01
 ### Changed
 - Add uninstall script
