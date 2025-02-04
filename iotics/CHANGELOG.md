@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.79] - 2025-02-04
+### Changed
+- Fix issue - new wallpapers return 404 response
+
 ## [0.12.78] - 2025-02-03
 ### Changed
 - Add new wallpapers
