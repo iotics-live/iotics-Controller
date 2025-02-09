@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.81] - 2025-02-09
+### Changed
+- Fix issue - delete automation from favourite when update sharing
+
 ## [0.12.80] - 2025-02-08
 ### Changed
 - Fix issue - delete automation from favourite when end sharing
