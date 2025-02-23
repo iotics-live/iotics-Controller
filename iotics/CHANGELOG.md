@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.83] - 2025-02-23
+### Changed
+- Fix issue - delete favourite automations when automation is deleted
+
 ## [0.12.82] - 2025-02-15
 ### Changed
 - Configure excluded device notification setting during server configuration
