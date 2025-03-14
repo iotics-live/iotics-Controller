@@ -19,7 +19,7 @@ The **Iotics Controller Add-on** simplifies sharing and managing your Home Assis
 ---
 
 ## Installation  
-
+# ⚠️ **Iotics requires both the add-on and the companion app to function!** ⚠️
 Setting up the Iotics Controller Add-on is quick and easy. Follow these steps:  
 
 1. **Add the Iotics Repository**   
