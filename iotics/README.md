@@ -17,7 +17,7 @@ The **Iotics Controller Add-on** simplifies sharing and managing your Home Assis
 - **Secure Remote Access**: Access your smart home remotely with confidence and peace of mind.  
 
 ---
-## Installation *(iotics requires both the add-on and the companion app to function)⚠*
+## Installation *(iotics requires both the add-on and the companion app to function)*
 
 **Primary method:**
 - **Installation via Companion App (Recommended)**
