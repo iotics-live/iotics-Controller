@@ -26,7 +26,7 @@ When you download and install the companion app, it automatically scans for exis
 - **[Get it on Google Play](https://play.google.com/store/apps/details?id=live.iotics.iotics&pli=1)**  
 - **[Explore it on AppGallery](https://appgallery.huawei.com/app/C106708521)**  
 
-### **Method 2: Installation via Home Assistant Add-ons**  
+**Method 2: Installation via Home Assistant Add-ons**  
 1. **Add the Iotics Repository**  
    - Open **Settings > Add-ons > Add-on Store**, click the menu (three dots), and select **Add repository**.  
    - Enter the repository URL:  
