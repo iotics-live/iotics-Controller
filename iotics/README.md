@@ -36,30 +36,26 @@ Setting up the Iotics Controller Add-on is quick and easy. Follow these steps:
 3. **Start the Iotics Controller Add-on**  
    - Once installation is complete, start the add-on from the Home Assistant interface.  
 
-4. **Access the Iotics Admin Interface**  
-   - Open the WebUI by clicking [https://your-home-assistant-url:4443](https://your-home-assistant-url:4443).  
-     Replace `your-home-assistant-url` with your local Home Assistant address, e.g., `http://localhost` or `http://192.168.x.x`.  
+4. **Download the Iotics Companion App**  
+   - To control your Iotics Add-on from your mobile or tablet, download the Iotics Companion App:
 
-### Default Admin Interface Credentials  
-Log in to the admin interface to complete the initial setup:  
-- **Username**: `admin`  
-- **Password**: `password`  
-
-> **Important**: For security, update the default credentials during the initial setup.  
+     - **[Download on the App Store](https://apps.apple.com/us/app/iotics-for-home-assistant/id1534768325)**
+     - **[Get it on Google Play](https://play.google.com/store/apps/details?id=live.iotics.iotics&pli=1)** 
+     - **[Explore it on AppGallery](https://appgallery.huawei.com/app/C106708521)**
 
 ---
 
 ### Beta Notice  
-The Iotics Controller Add-on is currently in **open beta** and supports the Home Assistant Operating System (HAOS) exclusively. It serves as the backend for the Iotics mobile and tablet applications. A web app version is under development.  
+The Iotics Controller Add-on is currently in **open beta** and supports the Home Assistant Operating System (HAOS) exclusively. It serves as the backend for the Iotics mobile and tablet applications. 
 
 ---
 
 ## Support  
 
-We’re here to assist you! Share your feedback or report any issues:  
+We’re here to help! If you have any feedback, ideas, or issues, please reach out:  
 
-- **Suggestions**: Have ideas or feature requests? [Submit them here](#).  
-- **Report Issues**: Encountered a problem? [Report it here](#).  
-- **Docker Image**: Prefer Docker? Download the Iotics Controller image from [Docker Hub](#).  
+- **Feature Suggestions**: Got an idea to improve Iotics? [Submit your suggestions here](https://github.com/iotics-live/iotics-Controller/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=).  
+- **Bug Reports**: Encountered a problem? [Report bugs here](https://github.com/iotics-live/iotics-Controller/issues/new?assignees=&labels=bug&template=bug_report.md&title=).  
+- **Docker Image**: Prefer Docker? [Download the Iotics Controller image from Docker Hub](https://hub.docker.com/r/iotics/iotics-controller).  
 
-Stay connected and help us improve **Iotics**!  
+Stay connected and help us improve **Iotics**!
