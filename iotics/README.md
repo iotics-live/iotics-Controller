@@ -20,7 +20,7 @@ The **Iotics Controller Add-on** simplifies sharing and managing your Home Assis
 
 ## Installation *(Iotics requires both the add-on and the companion app to function)*  
 - **Method 1: Installation via Companion App *(Recommended)***  
-When you download and install the companion app, it automatically scans for existing Home Assistant servers upon its initial launch. If a server is detected, the app provides an option to install the Home Assistant add-on directly, automating the setup process.  
+When you download and install the companion app, it automatically scans for existing Home Assistant servers upon its initial launch. If a server is detected, the app provides an option to install the Home Assistant add-on directly, automating the setup process. Download the Iotics Companion App:  
 
    - **[Download on the App Store](https://apps.apple.com/us/app/iotics-for-home-assistant/id1534768325)**  
    - **[Get it on Google Play](https://play.google.com/store/apps/details?id=live.iotics.iotics&pli=1)**  
@@ -42,7 +42,6 @@ When you download and install the companion app, it automatically scans for exis
    - Once installation is complete, start the add-on from the Home Assistant interface.  
 
 4. **Download the Iotics Companion App**  
-   - To control your Iotics Add-on from your mobile or tablet, download the Iotics Companion App:  
 
      - **[Download on the App Store](https://apps.apple.com/us/app/iotics-for-home-assistant/id1534768325)**  
      - **[Get it on Google Play](https://play.google.com/store/apps/details?id=live.iotics.iotics&pli=1)**  
