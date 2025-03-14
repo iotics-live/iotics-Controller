@@ -1,8 +1,6 @@
 # Iotics Controller Add-on  
 ![Iotics Dashboard](https://github.com/iotics-live/iotics-Controller/blob/master/iotics/Images/screenshot-003.png?raw=true)  
 
----
-
 ## About  
 The **Iotics Controller Add-on** simplifies sharing and managing your Home Assistant OS with an intuitive user interface. Designed to make Home Assistant accessible to all household members, Iotics emphasizes user control and privacy to deliver a seamless, secure smart home experience.  
 
