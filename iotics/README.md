@@ -22,9 +22,9 @@ The **Iotics Controller Add-on** simplifies sharing and managing your Home Assis
 - **Method 1: Installation via Companion App *(Recommended)***  
 When you download and install the companion app, it automatically scans for existing Home Assistant servers upon its initial launch. If a server is detected, the app provides an option to install the Home Assistant add-on directly, automating the setup process.  
 
-- **[Download on the App Store](https://apps.apple.com/us/app/iotics-for-home-assistant/id1534768325)**  
-- **[Get it on Google Play](https://play.google.com/store/apps/details?id=live.iotics.iotics&pli=1)**  
-- **[Explore it on AppGallery](https://appgallery.huawei.com/app/C106708521)**  
+   - **[Download on the App Store](https://apps.apple.com/us/app/iotics-for-home-assistant/id1534768325)**  
+   - **[Get it on Google Play](https://play.google.com/store/apps/details?id=live.iotics.iotics&pli=1)**  
+   - **[Explore it on AppGallery](https://appgallery.huawei.com/app/C106708521)**  
 
 - **Method 2: Installation via Home Assistant Add-ons**  
 1. **Add the Iotics Repository**  
