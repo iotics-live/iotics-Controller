@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.88] - 2025-04-06
+### Changed
+- Minor changes to texts of verify/remove emails
+
 ## [0.12.86] - 2025-04-05
 ### Changed
 - Re-work API for verify/unlink email
