@@ -11,6 +11,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Fix issue - enable login to HA when 2FA authentication enabled
 
+## [0.12.91] - 2025-04-13
+### Changed
+- Fix issue - new location registration send email confirmation to location owner
+
 ## [0.12.90] - 2025-04-13
 ### Changed
 - Remove EntityFramework logs
