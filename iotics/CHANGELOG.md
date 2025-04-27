@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.94] - 2025-04-27
+### Changed
+- Update `run.sh` script to address [Startup errors #10](https://github.com/iotics-live/iotics-Controller/issues/10)
+
+## [0.12.93] - 2025-04-26
+### Changed
+- Update HA login flow to signal MFA code is required
+
 ## [0.12.92] - 2025-04-19
 ### Changed
 - Fix issue - enable login to HA when 2FA authentication enabled
