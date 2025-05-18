@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.96] - 2025-05-18
+### Changed
+- Improve `run.sh` script to address [Startup error #12](https://github.com/iotics-live/iotics-Controller/issues/12)
+
 ## [0.12.95] - 2025-05-03
 ### Changed
 - Add `/server/connect` API to avoid entering 2FA OTP code twice during installation
