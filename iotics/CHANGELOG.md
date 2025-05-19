@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.97] - 2025-05-18
+### Changed
+- Fixing `run.sh` script
+
 ## [0.12.96] - 2025-05-18
 ### Changed
 - Improve `run.sh` script to address [Startup error #12](https://github.com/iotics-live/iotics-Controller/issues/12)
