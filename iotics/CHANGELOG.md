@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.98] - 2025-06-08
+### Changed
+- Do not log user settings changes
+- Fix issue - multiple log entries for triggered automation
+
 ## [0.12.97] - 2025-05-18
 ### Changed
 - Fixing `run.sh` script
