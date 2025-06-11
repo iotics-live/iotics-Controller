@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.100] - 2025-06-11
+### Changed
+- Add Cover, Siren and Valve (first version)
+
 ## [0.12.99] - 2025-06-08
 ### Changed
 - Fix issue - multiple log entries for triggered automation
