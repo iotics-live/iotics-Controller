@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.102] - 2025-07-20
+### Changed
+- Support Original EntityIID for switch as X
+
 ## [0.12.101] - 2025-07-06
 ### Changed
 - Add Siren and Valve room categories
