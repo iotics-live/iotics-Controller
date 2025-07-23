@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.103] - 2025-07-23
+### Changed
+- Support Original EntityIID to Groups API
+
 ## [0.12.102] - 2025-07-20
 ### Changed
 - Support Original EntityIID for switch as X
