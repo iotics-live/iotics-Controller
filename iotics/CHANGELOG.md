@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.104] - 2025-08-04
+### Changed
+- Add delete application log API
+- Add new backgrounds
+
 ## [0.12.103] - 2025-07-23
 ### Changed
 - Support Original EntityIID to Groups API
