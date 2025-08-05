@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.105] - 2025-08-05
+### Changed
+- Fix new backgrounds
+
 ## [0.12.104] - 2025-08-04
 ### Changed
 - Add delete application log API
