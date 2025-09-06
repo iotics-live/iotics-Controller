@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.107] - 2025-09-06
+### Changed
+- Add cameras support
+
 ## [0.12.106] - 2025-08-16
 ### Changed
 - Add icon to update group API
