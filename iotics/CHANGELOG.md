@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.109] - 2025-10-18
+### Changed
+- Add API for camera snapshots
+
+## [0.12.108] - 2025-10-18
+### Changed
+- Enable DuckDNS support
+
 ## [0.12.107] - 2025-09-06
 ### Changed
 - Add cameras support
