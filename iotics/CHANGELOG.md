@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.110] - 2025-11-16
+### Changed
+- Add API for get general configuration
+
 ## [0.12.109] - 2025-10-18
 ### Changed
 - Add API for camera snapshots
