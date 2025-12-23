@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.112] - 2025-12-23
+### Changed
+- Allow System Manager to create cards
+
 ## [0.12.111] - 2025-11-19
 ### Changed
 - Update permissions for for get general configuration API
