@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.113] - 2025-12-27
+### Changed
+- Allow System Manager to manipulate cards
+- Add user details to automation user role response
+
 ## [0.12.112] - 2025-12-23
 ### Changed
 - Allow System Manager to create cards
