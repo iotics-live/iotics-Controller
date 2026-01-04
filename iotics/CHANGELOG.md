@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.114] - 2026-01-04
+### Changed
+- Update groups API
+
 ## [0.12.113] - 2025-12-27
 ### Changed
 - Allow System Manager to manipulate cards
