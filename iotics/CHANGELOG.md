@@ -7,10 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
-## [0.12.117] - 2026-02-07
+## [0.12.118] - 2026-02-08
 ### Changed
-- Ignore SSL certificate errors for self-signed certificates (WebSocket and HTTP clients)
-- Update Firebase configuration
+- Support secure WebSocket (wss://) protocol for HTTPS connections
+- Fix ExceptionDispatchInfo assignment in WebSocket client
 
 ## [0.12.116] - 2026-01-17
 ### Changed
