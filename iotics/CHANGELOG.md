@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.119] - 2026-04-12
+### Changed
+- Allow System Manager to call Notification Settings
+
 ## [0.12.118] - 2026-02-08
 ### Changed
 - Support secure WebSocket (wss://) protocol for HTTPS connections
