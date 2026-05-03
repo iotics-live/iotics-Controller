@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.120] - 2026-05-03
+### Changed
+- Add camera management to UI
+
 ## [0.12.119] - 2026-04-12
 ### Changed
 - Allow System Manager to call Notification Settings
