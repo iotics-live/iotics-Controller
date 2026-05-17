@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.122] - 2026-05-17
+### Changed
+- Support import for Camera devices
+
+## [0.12.121] - 2026-05-17
+### Changed
+- Populate automation for Favourite Automations API
+
 ## [0.12.120] - 2026-05-03
 ### Changed
 - Add camera management to UI
